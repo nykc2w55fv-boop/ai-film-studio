@@ -1,7 +1,7 @@
 {
   "version": "0.2.0",
-  "stage": "local-candidate",
-  "knowledge_source": "private GitHub repository after rights and access checks",
+  "stage": "private-release",
+  "knowledge_source": "private GitHub repository",
   "method_count": 127,
   "master_count": 14,
   "specialist_count": 11,

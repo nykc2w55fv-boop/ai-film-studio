@@ -22,6 +22,8 @@ jobs:
           expected = json.loads(Path('VERSION.json').read_text())['version']
           if os.environ['GITHUB_REF_NAME'] != 'v' + expected:
               raise SystemExit('Tag does not match VERSION.json')
+          if json.loads(Path('VERSION.json').read_text())['stage'] != 'private-release':
+              raise SystemExit('VERSION.json is not marked private-release')
           PY
           test "$(gh repo view --json isPrivate --jq .isPrivate)" = true
       - name: Run regression and build
@@ -31,6 +33,11 @@ jobs:
           python -m unittest discover -s 06_QA/tests -v
           python 05_AUTOMATION/scripts/build_release.py --version "${GITHUB_REF_NAME#v}" --audit 06_QA/evidence-audit-20261106.json
           python 05_AUTOMATION/scripts/export_plugin.py --release "dist/ai-film-system-${GITHUB_REF_NAME#v}"
+      - name: Verify archive SHA-256
+        run: |
+          cd dist
+          sha256sum --check "ai-film-system-${GITHUB_REF_NAME#v}.zip.sha256"
+          sha256sum --check "ai-film-studio-plugin-${GITHUB_REF_NAME#v}.zip.sha256"
       - name: Create private repository Release
         env:
           GH_TOKEN: ${{ github.token }}
@@ -41,5 +48,6 @@ jobs:
             "dist/ai-film-system-$version.zip.sha256" \
             "dist/ai-film-studio-plugin-$version.zip" \
             "dist/ai-film-studio-plugin-$version.zip.sha256" \
+            --verify-tag \
             --title "AI Film Studio $version" \
-            --notes "Private release. Client installation and film project files require separate acceptance."
+            --notes-file "deployment/RELEASE_NOTES_$version.md"

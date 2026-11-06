@@ -2,7 +2,7 @@
 
 ## 权限与正式发布
 
-`main` 是开发分支。用户已确认 14 份原包可上传到自己的私有 GitHub 仓库和私有 ChatGPT Plugin；只纳入构建实际引用的 16 个顶层研究文件，排除展开副本、影片项目和媒体素材。只有敏感信息检查、仓库权限、完整回归和目标客户端验收通过后，才创建 `v0.2.0` 标签与私有 Release。`VERSION.json`、发布包 `manifest.json` 和 ZIP 的 SHA-256 必须对应。Actions 会从私有仓库重建发布包，但不能代替桌面、手机和 VPS 的真实调用。
+`main` 是开发分支。用户已确认 14 份原包可上传到自己的私有 GitHub 仓库和私有 ChatGPT Plugin；只纳入构建实际引用的 16 个顶层研究文件，排除展开副本、影片项目和媒体素材。`v0.2.0` 私有发布依据敏感信息检查、仓库权限、完整回归、Codex 本机调用和 ChatGPT 网页端调用；尚未通过的客户端列入 Release Notes，不作为通过项。`VERSION.json`、发布包 `manifest.json` 和 ZIP 的 SHA-256 必须对应。Actions 会从私有仓库重建发布包，但不能代替桌面、手机和 VPS 的真实调用。
 
 Codex 使用仓库专用可写 SSH Deploy key；私钥仅在本机 SSH 目录，不能提交或贴入聊天。第一次克隆后用 `git remote -v`、`git fetch` 验证读权限；通过无敏感内容的小提交和 `git push origin main` 验证写权限，记录提交 SHA。回滚用既有安装器的备份 ZIP，仓库回滚使用经审查的恢复提交或选择旧标签，不强推。
 
