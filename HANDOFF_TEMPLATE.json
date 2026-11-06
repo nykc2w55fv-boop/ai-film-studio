@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "handoff_id": "film-example-change-001",
+  "project_slug": "film-example",
+  "source": "ChatGPT Project conversation or exported draft identifier",
+  "source_version": "draft-1",
+  "summary": "本次变更及原因",
+  "confirmation": {
+    "status": "pending",
+    "confirmed_by": "",
+    "confirmed_at": "",
+    "reapproval": false
+  },
+  "changes": [
+    {
+      "file": "story_bible.md",
+      "operation": "append",
+      "base_sha256": "用当前正式文件的 SHA-256 填写",
+      "content": "## 新决定\n记录内容、来源及待核实事项。"
+    }
+  ]
+}

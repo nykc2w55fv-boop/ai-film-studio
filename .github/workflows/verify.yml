@@ -1,0 +1,45 @@
+name: Verify safe source
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+jobs:
+  static-and-handoff:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Compile automation
+        run: python -m compileall -q 05_AUTOMATION/scripts
+      - name: Test routing, handoff, installation and continuity
+        run: python -m unittest discover -s 06_QA/tests -v
+      - name: Validate source structure
+        run: |
+          mkdir -p 03_KNOWLEDGE/master-research/inbox 03_KNOWLEDGE/master-research/ready-for-skill 03_KNOWLEDGE/master-research/processed
+          python 05_AUTOMATION/scripts/validate_system.py
+      - name: Build the versioned release
+        run: python 05_AUTOMATION/scripts/build_release.py --version 0.2.0 --audit 06_QA/evidence-audit-20261106.json
+      - name: Export private plugin package
+        run: python 05_AUTOMATION/scripts/export_plugin.py --release dist/ai-film-system-0.2.0
+      - name: Retain versioned build for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-film-studio-0.2.0
+          path: |
+            dist/ai-film-system-0.2.0.zip
+            dist/ai-film-system-0.2.0.zip.sha256
+            dist/ai-film-studio-plugin-0.2.0.zip
+            dist/ai-film-studio-plugin-0.2.0.zip.sha256
+          retention-days: 14
+      - name: Check forbidden tracked material
+        run: |
+          python - <<'PY'
+          import subprocess
+          names = subprocess.check_output(['git', 'ls-files', '-z']).decode().split('\0')
+          forbidden = [name for name in names if name.startswith(('01_PROJECTS/', '04_ASSET_LIBRARY/', 'dist/')) or name.endswith(('.env', '.mp4', '.mov', '.wav'))]
+          if forbidden:
+              raise SystemExit('Forbidden tracked material: ' + ', '.join(forbidden))
+          PY

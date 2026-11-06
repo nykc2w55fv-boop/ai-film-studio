@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0",
+  "stage": "local-candidate",
+  "knowledge_source": "private GitHub repository after rights and access checks",
+  "method_count": 127,
+  "master_count": 14,
+  "specialist_count": 11,
+  "workflow_stages": 16,
+  "approval_points": 4
+}

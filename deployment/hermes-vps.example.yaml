@@ -1,0 +1,5 @@
+# Same official external_dirs mechanism on the VPS.
+# Supply AI_FILM_SKILLS_DIR in the Hermes launcher or service environment.
+skills:
+  external_dirs:
+    - ${AI_FILM_SKILLS_DIR}

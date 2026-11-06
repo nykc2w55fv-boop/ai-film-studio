@@ -1,0 +1,4 @@
+# Merge this entry into the existing Hermes config; preserve other settings.
+skills:
+  external_dirs:
+    - ${AI_FILM_SKILLS_DIR}

@@ -1,0 +1,3272 @@
+{
+  "schema_version": 1,
+  "audited_at": "2026-11-06T13:51:46.545245+00:00",
+  "online": true,
+  "methods": [
+    {
+      "method_id": "lu-wei-M01",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "M1",
+        "S05",
+        "S11",
+        "S12",
+        "S13"
+      ],
+      "source_urls": [
+        "https://ent.sina.com.cn/m/c/2007-04-09/16581512169.html",
+        "https://paper.xinmin.cn/html/xmzk/2025-11-03/65/41889.html",
+        "https://static.nfnews.com/content/202211/22/c7098437.html",
+        "https://www.thepaper.cn/newsDetail_forward_22032122"
+      ],
+      "reachable_urls": [
+        "https://ent.sina.com.cn/m/c/2007-04-09/16581512169.html",
+        "https://paper.xinmin.cn/html/xmzk/2025-11-03/65/41889.html",
+        "https://www.thepaper.cn/newsDetail_forward_22032122"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "lu-wei-research-package.md",
+      "source_heading": "M1｜情感触发与事实沉浸",
+      "critical_review": false,
+      "master_slug": "lu-wei"
+    },
+    {
+      "method_id": "lu-wei-M02",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "M2",
+        "S12",
+        "S13"
+      ],
+      "source_urls": [
+        "https://paper.xinmin.cn/html/xmzk/2025-11-03/65/41889.html",
+        "https://www.thepaper.cn/newsDetail_forward_22032122"
+      ],
+      "reachable_urls": [
+        "https://paper.xinmin.cn/html/xmzk/2025-11-03/65/41889.html",
+        "https://www.thepaper.cn/newsDetail_forward_22032122"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "lu-wei-research-package.md",
+      "source_heading": "M2｜时代压力转化为人物命运",
+      "critical_review": false,
+      "master_slug": "lu-wei"
+    },
+    {
+      "method_id": "lu-wei-M03",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "M3",
+        "S05",
+        "S11"
+      ],
+      "source_urls": [
+        "https://ent.sina.com.cn/m/c/2007-04-09/16581512169.html",
+        "https://static.nfnews.com/content/202211/22/c7098437.html"
+      ],
+      "reachable_urls": [
+        "https://ent.sina.com.cn/m/c/2007-04-09/16581512169.html"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "lu-wei-research-package.md",
+      "source_heading": "M3｜文学改编的二度创作",
+      "critical_review": false,
+      "master_slug": "lu-wei"
+    },
+    {
+      "method_id": "lu-wei-M04",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "M4",
+        "S11",
+        "S13"
+      ],
+      "source_urls": [
+        "https://paper.xinmin.cn/html/xmzk/2025-11-03/65/41889.html",
+        "https://static.nfnews.com/content/202211/22/c7098437.html"
+      ],
+      "reachable_urls": [
+        "https://paper.xinmin.cn/html/xmzk/2025-11-03/65/41889.html"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "lu-wei-research-package.md",
+      "source_heading": "M4｜同理心驱动的人物塑造",
+      "critical_review": false,
+      "master_slug": "lu-wei"
+    },
+    {
+      "method_id": "shinobu-hashimoto-M01",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "hashimoto-shinobu-research-package.md",
+      "source_heading": "模型一：先行稿—多视角审查—定稿",
+      "critical_review": false,
+      "master_slug": "shinobu-hashimoto"
+    },
+    {
+      "method_id": "shinobu-hashimoto-M02",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "hashimoto-shinobu-research-package.md",
+      "source_heading": "模型二：从原著中提取电影核心，再进行扩展与重构",
+      "critical_review": false,
+      "master_slug": "shinobu-hashimoto"
+    },
+    {
+      "method_id": "shinobu-hashimoto-M03",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "hashimoto-shinobu-research-package.md",
+      "source_heading": "模型三：多层叙事与信息控制",
+      "critical_review": false,
+      "master_slug": "shinobu-hashimoto"
+    },
+    {
+      "method_id": "shinobu-hashimoto-M04",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "hashimoto-shinobu-research-package.md",
+      "source_heading": "模型四：共同目标下的差异化角色组织",
+      "critical_review": false,
+      "master_slug": "shinobu-hashimoto"
+    },
+    {
+      "method_id": "shinobu-hashimoto-M05",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "hashimoto-shinobu-research-package.md",
+      "source_heading": "模型五：以具体情感关系承载社会冲突",
+      "critical_review": false,
+      "master_slug": "shinobu-hashimoto"
+    },
+    {
+      "method_id": "robert-towne-M01",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "A1",
+        "A2",
+        "B1"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "robert-towne-research-package.md",
+      "source_heading": "模型一：现实观察转化为人物行为",
+      "critical_review": false,
+      "master_slug": "robert-towne"
+    },
+    {
+      "method_id": "robert-towne-M02",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "A1",
+        "A2"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "robert-towne-research-package.md",
+      "source_heading": "模型二：用具体任务制造关系压力",
+      "critical_review": false,
+      "master_slug": "robert-towne"
+    },
+    {
+      "method_id": "robert-towne-M03",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "A1",
+        "A2",
+        "B1"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "robert-towne-research-package.md",
+      "source_heading": "模型三：通过重排场景建立因果关系",
+      "critical_review": false,
+      "master_slug": "robert-towne"
+    },
+    {
+      "method_id": "robert-towne-M04",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "A1"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "robert-towne-research-package.md",
+      "source_heading": "模型四：通过间接表达和沉默呈现真实动机",
+      "critical_review": false,
+      "master_slug": "robert-towne"
+    },
+    {
+      "method_id": "robert-towne-M05",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "A1"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "robert-towne-research-package.md",
+      "source_heading": "模型五：以实际表演和成片效果检验剧本",
+      "critical_review": false,
+      "master_slug": "robert-towne"
+    },
+    {
+      "method_id": "william-goldman-M01",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "william-goldman-research-package.md",
+      "source_heading": "模型1：结构至上与故事脊柱（Spine）锚定模型",
+      "critical_review": false,
+      "master_slug": "william-goldman"
+    },
+    {
+      "method_id": "william-goldman-M02",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "william-goldman-research-package.md",
+      "source_heading": "模型2：忠于意图的三色笔小说改编模型",
+      "critical_review": false,
+      "master_slug": "william-goldman"
+    },
+    {
+      "method_id": "william-goldman-M03",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "william-goldman-research-package.md",
+      "source_heading": "模型3：情感内核（Emotional Core）死守与博弈妥协模型",
+      "critical_review": false,
+      "master_slug": "william-goldman"
+    },
+    {
+      "method_id": "william-goldman-M04",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "william-goldman-research-package.md",
+      "source_heading": "模型4：超越热情的「在乎（Caring）」与大冒险构建模型",
+      "critical_review": false,
+      "master_slug": "william-goldman"
+    },
+    {
+      "method_id": "william-goldman-M05",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "william-goldman-research-package.md",
+      "source_heading": "模型5：兑现期待且零废镜头的结尾纪律模型",
+      "critical_review": false,
+      "master_slug": "william-goldman"
+    },
+    {
+      "method_id": "charlie-kaufman-M01",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "A1",
+        "M1",
+        "P01",
+        "P06",
+        "P07"
+      ],
+      "source_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-charlie-kaufman-on-synecdoche-new-york/",
+        "https://www.bafta.org/media-centre/press-releases/screenwriters-lecture-charlie-kaufman/",
+        "https://www.salon.com/1999/11/11/kaufman/"
+      ],
+      "reachable_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-charlie-kaufman-on-synecdoche-new-york/",
+        "https://www.salon.com/1999/11/11/kaufman/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "charlie-kaufman-research-package.md",
+      "source_heading": "M1｜情绪核驱动：先找到真正困扰人物的事情",
+      "critical_review": false,
+      "master_slug": "charlie-kaufman"
+    },
+    {
+      "method_id": "charlie-kaufman-M02",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "A2",
+        "M2",
+        "P02",
+        "P07"
+      ],
+      "source_urls": [
+        "https://www.salon.com/1999/11/11/kaufman/",
+        "https://www.theguardian.com/film/2011/oct/03/charlie-kaufman-how-to-write"
+      ],
+      "reachable_urls": [
+        "https://www.salon.com/1999/11/11/kaufman/",
+        "https://www.theguardian.com/film/2011/oct/03/charlie-kaufman-how-to-write"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "charlie-kaufman-research-package.md",
+      "source_heading": "M2｜异质概念碰撞与有机化",
+      "critical_review": false,
+      "master_slug": "charlie-kaufman"
+    },
+    {
+      "method_id": "charlie-kaufman-M03",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "A1",
+        "M3",
+        "P03"
+      ],
+      "source_urls": [
+        "https://www.avclub.com/charlie-kaufman-1798215042"
+      ],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "charlie-kaufman-research-package.md",
+      "source_heading": "M3｜主观意识作为叙事规则",
+      "critical_review": false,
+      "master_slug": "charlie-kaufman"
+    },
+    {
+      "method_id": "charlie-kaufman-M04",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "A1",
+        "M4",
+        "P01",
+        "P04",
+        "P09"
+      ],
+      "source_urls": [
+        "https://www.bafta.org/media-centre/press-releases/screenwriters-lecture-charlie-kaufman/",
+        "https://www.bfi.org.uk/sight-and-sound/interviews/charlie-kaufman-antkind-book-im-thinking-of-ending-things-netflix",
+        "https://www.reverseshot.org/interviews/entry/332/charlie-kaufman"
+      ],
+      "reachable_urls": [
+        "https://www.bfi.org.uk/sight-and-sound/interviews/charlie-kaufman-antkind-book-im-thinking-of-ending-things-netflix",
+        "https://www.reverseshot.org/interviews/entry/332/charlie-kaufman"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "charlie-kaufman-research-package.md",
+      "source_heading": "M4｜开放式探索与回溯修订",
+      "critical_review": false,
+      "master_slug": "charlie-kaufman"
+    },
+    {
+      "method_id": "charlie-kaufman-M05",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "I05",
+        "M5",
+        "P05",
+        "P06",
+        "P08",
+        "P09",
+        "S03",
+        "S07"
+      ],
+      "source_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-charlie-kaufman-on-synecdoche-new-york/",
+        "https://www.avclub.com/MICHEL-GONDRY-CHARLIE-KAUFMAN-1798208337",
+        "https://www.bfi.org.uk/sight-and-sound/interviews/charlie-kaufman-antkind-book-im-thinking-of-ending-things-netflix",
+        "https://www.nationalboardofreview.org/2020/09/qa-with-charlie-kaufman-jessie-buckley-and-jesse-plemons/",
+        "https://www.theguardian.com/film/2024/mar/19/eternal-sunshine-of-the-spotless-mind-anniversary",
+        "https://www.wga.org/writers-room/101-best-lists/101-best-screenplays-of-the-21st-century-so-far/list",
+        "https://www.zurnalai.vu.lt/religija-ir-kultura/en/article/view/841"
+      ],
+      "reachable_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-charlie-kaufman-on-synecdoche-new-york/",
+        "https://www.bfi.org.uk/sight-and-sound/interviews/charlie-kaufman-antkind-book-im-thinking-of-ending-things-netflix",
+        "https://www.theguardian.com/film/2024/mar/19/eternal-sunshine-of-the-spotless-mind-anniversary",
+        "https://www.wga.org/writers-room/101-best-lists/101-best-screenplays-of-the-21st-century-so-far/list",
+        "https://www.zurnalai.vu.lt/religija-ir-kultura/en/article/view/841"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "charlie-kaufman-research-package.md",
+      "source_heading": "M5｜记忆与时间的心理化",
+      "critical_review": false,
+      "master_slug": "charlie-kaufman"
+    },
+    {
+      "method_id": "charlie-kaufman-M06",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "A1",
+        "I06",
+        "I07",
+        "M6",
+        "P06",
+        "P09",
+        "P11"
+      ],
+      "source_urls": [
+        "https://catalog.afi.com/Film/54004-ADAPTATION",
+        "https://editorial.rottentomatoes.com/article/rt-interview-charlie-kaufman-on-synecdoche-new-york/",
+        "https://www.bfi.org.uk/sight-and-sound/interviews/charlie-kaufman-antkind-book-im-thinking-of-ending-things-netflix",
+        "https://www.newyorker.com/culture/the-weekend-essay/the-making-of-adaptation",
+        "https://www.sonyclassics.com/downloads/Synecdoche-Release.pdf"
+      ],
+      "reachable_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-charlie-kaufman-on-synecdoche-new-york/",
+        "https://www.bfi.org.uk/sight-and-sound/interviews/charlie-kaufman-antkind-book-im-thinking-of-ending-things-netflix",
+        "https://www.newyorker.com/culture/the-weekend-essay/the-making-of-adaptation",
+        "https://www.sonyclassics.com/downloads/Synecdoche-Release.pdf"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "charlie-kaufman-research-package.md",
+      "source_heading": "M6｜元叙事戏剧化：让创作困境成为故事行动",
+      "critical_review": false,
+      "master_slug": "charlie-kaufman"
+    },
+    {
+      "method_id": "charlie-kaufman-M07",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "A1",
+        "M7",
+        "P01",
+        "P02",
+        "P08"
+      ],
+      "source_urls": [
+        "https://www.bafta.org/media-centre/press-releases/screenwriters-lecture-charlie-kaufman/",
+        "https://www.nationalboardofreview.org/2020/09/qa-with-charlie-kaufman-jessie-buckley-and-jesse-plemons/",
+        "https://www.theguardian.com/film/2011/oct/03/charlie-kaufman-how-to-write"
+      ],
+      "reachable_urls": [
+        "https://www.theguardian.com/film/2011/oct/03/charlie-kaufman-how-to-write"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "charlie-kaufman-research-package.md",
+      "source_heading": "M7｜象征必须可表演：让超现实设定落回人类互动",
+      "critical_review": false,
+      "master_slug": "charlie-kaufman"
+    },
+    {
+      "method_id": "steven-spielberg-M01",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "M1",
+        "P01",
+        "P03",
+        "P05",
+        "P08",
+        "S01"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "steven-spielberg-research-package.md",
+      "source_heading": "M1｜观众席位设计（Audience Position Architecture）",
+      "critical_review": false,
+      "master_slug": "steven-spielberg"
+    },
+    {
+      "method_id": "steven-spielberg-M02",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "M2",
+        "P03",
+        "P05",
+        "P12",
+        "P14"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "steven-spielberg-research-package.md",
+      "source_heading": "M2｜线索先行、揭示后置（Evidence Before Reveal）",
+      "critical_review": false,
+      "master_slug": "steven-spielberg"
+    },
+    {
+      "method_id": "steven-spielberg-M03",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "M3",
+        "P05",
+        "P15",
+        "P22",
+        "P23",
+        "P26",
+        "P30",
+        "S06"
+      ],
+      "source_urls": [
+        "https://amblin.com/movie/jaws/"
+      ],
+      "reachable_urls": [
+        "https://amblin.com/movie/jaws/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "steven-spielberg-research-package.md",
+      "source_heading": "M3｜奇观落地（Spectacle Anchored in Ordinary Reality）",
+      "critical_review": false,
+      "master_slug": "steven-spielberg"
+    },
+    {
+      "method_id": "steven-spielberg-M04",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "M4",
+        "P02",
+        "P04",
+        "P05",
+        "P08",
+        "P10"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "steven-spielberg-research-package.md",
+      "source_heading": "M4｜任务目标固定、预演强度可变（Mission-Locked Flexible Previsualization）",
+      "critical_review": false,
+      "master_slug": "steven-spielberg"
+    },
+    {
+      "method_id": "steven-spielberg-M05",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "M5",
+        "P05",
+        "P08",
+        "P12",
+        "P22",
+        "S01"
+      ],
+      "source_urls": [
+        "https://amblin.com/movie/jaws/"
+      ],
+      "reachable_urls": [
+        "https://amblin.com/movie/jaws/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "steven-spielberg-research-package.md",
+      "source_heading": "M5｜声画共同叙事（Audiovisual Dramaturgy）",
+      "critical_review": false,
+      "master_slug": "steven-spielberg"
+    },
+    {
+      "method_id": "akira-kurosawa-M01",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "M01"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "SKILL.md",
+      "source_heading": "KM-M01 空间先定关系",
+      "critical_review": false,
+      "master_slug": "akira-kurosawa"
+    },
+    {
+      "method_id": "akira-kurosawa-M02",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "M02"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "SKILL.md",
+      "source_heading": "KM-M02 一人一个目标",
+      "critical_review": false,
+      "master_slug": "akira-kurosawa"
+    },
+    {
+      "method_id": "akira-kurosawa-M03",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "M03"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "SKILL.md",
+      "source_heading": "KM-M03 自然力入场",
+      "critical_review": false,
+      "master_slug": "akira-kurosawa"
+    },
+    {
+      "method_id": "akira-kurosawa-M04",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "M04"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "SKILL.md",
+      "source_heading": "KM-M04 三机同时覆盖",
+      "critical_review": false,
+      "master_slug": "akira-kurosawa"
+    },
+    {
+      "method_id": "akira-kurosawa-M05",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "M05"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "SKILL.md",
+      "source_heading": "KM-M05 当天剪辑",
+      "critical_review": false,
+      "master_slug": "akira-kurosawa"
+    },
+    {
+      "method_id": "akira-kurosawa-M06",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "M06"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "SKILL.md",
+      "source_heading": "KM-M06 从动作到动机",
+      "critical_review": false,
+      "master_slug": "akira-kurosawa"
+    },
+    {
+      "method_id": "akira-kurosawa-M07",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "M07"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "SKILL.md",
+      "source_heading": "KM-M07 纸上先拍",
+      "critical_review": false,
+      "master_slug": "akira-kurosawa"
+    },
+    {
+      "method_id": "alfred-hitchcock-M01",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "alfred-hitchcock-research-package.md",
+      "source_heading": "方法 1：观众知识编排（Audience Knowledge Architecture）",
+      "critical_review": false,
+      "master_slug": "alfred-hitchcock"
+    },
+    {
+      "method_id": "alfred-hitchcock-M02",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "alfred-hitchcock-research-package.md",
+      "source_heading": "方法 2：主观观察—反应链（Subjective Observation–Reaction Chain）",
+      "critical_review": false,
+      "master_slug": "alfred-hitchcock"
+    },
+    {
+      "method_id": "alfred-hitchcock-M03",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "alfred-hitchcock-research-package.md",
+      "source_heading": "方法 3：镜头组合的认知语法（Montage as Cognitive Syntax）",
+      "critical_review": false,
+      "master_slug": "alfred-hitchcock"
+    },
+    {
+      "method_id": "alfred-hitchcock-M04",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "alfred-hitchcock-research-package.md",
+      "source_heading": "方法 4：拍摄前的序列预构（Previsualized Sequence Design）",
+      "critical_review": false,
+      "master_slug": "alfred-hitchcock"
+    },
+    {
+      "method_id": "alfred-hitchcock-M05",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "alfred-hitchcock-research-package.md",
+      "source_heading": "方法 5：空间与时间的悬念工程（Spatial–Temporal Suspense Engineering）",
+      "critical_review": false,
+      "master_slug": "alfred-hitchcock"
+    },
+    {
+      "method_id": "alfred-hitchcock-M06",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "alfred-hitchcock-research-package.md",
+      "source_heading": "方法 6：麦格芬作为人物行动引擎（MacGuffin as Action Engine）",
+      "critical_review": false,
+      "master_slug": "alfred-hitchcock"
+    },
+    {
+      "method_id": "M01",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S002",
+        "S003",
+        "S007",
+        "S017"
+      ],
+      "source_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://studentfilmmakers.com/cinematograter-roger-deakins-asc-bsc/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/shot-craft-lens-test-the-deakinizer/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://thereveal.film/interview-roger-and-james-deakins-on-cinematography-and-navigating-a-changing-film-world/",
+        "https://www.filmcomment.com/interview-roger-deakins/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "reachable_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/shot-craft-lens-test-the-deakinizer/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://www.filmcomment.com/interview-roger-deakins/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "M01",
+      "critical_review": false,
+      "master_slug": "roger-deakins"
+    },
+    {
+      "method_id": "M02",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S010",
+        "S011",
+        "S012",
+        "S014",
+        "S016",
+        "S018"
+      ],
+      "source_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/modern-times-ac-since-2010/",
+        "https://theasc.com/article/shot-craft-lens-test-the-deakinizer/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/news/roger-deakins-at-clubhouse-for-blade-runner-2049-discussion/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://thereveal.film/interview-roger-and-james-deakins-on-cinematography-and-navigating-a-changing-film-world/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.rogerdeakins.com/forums/topic/lighting/",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "reachable_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/shot-craft-lens-test-the-deakinizer/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/news/roger-deakins-at-clubhouse-for-blade-runner-2049-discussion/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "M02",
+      "critical_review": false,
+      "master_slug": "roger-deakins"
+    },
+    {
+      "method_id": "M03",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S003",
+        "S005",
+        "S011",
+        "S012",
+        "S014"
+      ],
+      "source_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://studentfilmmakers.com/cinematograter-roger-deakins-asc-bsc/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/news/roger-deakins-at-clubhouse-for-blade-runner-2049-discussion/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://thereveal.film/interview-roger-and-james-deakins-on-cinematography-and-navigating-a-changing-film-world/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.rogerdeakins.com/filmography/",
+        "https://www.rogerdeakins.com/forums/topic/lighting/",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "reachable_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/news/roger-deakins-at-clubhouse-for-blade-runner-2049-discussion/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.rogerdeakins.com/filmography/",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "M03",
+      "critical_review": false,
+      "master_slug": "roger-deakins"
+    },
+    {
+      "method_id": "M04",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S003",
+        "S010",
+        "S011",
+        "S014",
+        "S016"
+      ],
+      "source_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://studentfilmmakers.com/cinematograter-roger-deakins-asc-bsc/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/news/roger-deakins-at-clubhouse-for-blade-runner-2049-discussion/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://thereveal.film/interview-roger-and-james-deakins-on-cinematography-and-navigating-a-changing-film-world/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.rogerdeakins.com/forums/topic/lighting/",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "reachable_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/news/roger-deakins-at-clubhouse-for-blade-runner-2049-discussion/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "M04",
+      "critical_review": false,
+      "master_slug": "roger-deakins"
+    },
+    {
+      "method_id": "M05",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S004",
+        "S012",
+        "S016"
+      ],
+      "source_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://thereveal.film/interview-roger-and-james-deakins-on-cinematography-and-navigating-a-changing-film-world/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.rogerdeakins.com/forums/topic/lighting/",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "reachable_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "M05",
+      "critical_review": false,
+      "master_slug": "roger-deakins"
+    },
+    {
+      "method_id": "M06",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S004",
+        "S007",
+        "S016",
+        "S024"
+      ],
+      "source_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://studentfilmmakers.com/cinematograter-roger-deakins-asc-bsc/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://thereveal.film/interview-roger-and-james-deakins-on-cinematography-and-navigating-a-changing-film-world/",
+        "https://www.filmcomment.com/interview-roger-deakins/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.rogerdeakins.com/filmography/",
+        "https://www.rogerdeakins.com/forums/topic/lighting/",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "reachable_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://www.filmcomment.com/interview-roger-deakins/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.rogerdeakins.com/filmography/",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "M06",
+      "critical_review": false,
+      "master_slug": "roger-deakins"
+    },
+    {
+      "method_id": "M07",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S006",
+        "S009",
+        "S018",
+        "S029"
+      ],
+      "source_urls": [
+        "https://rogerdeakins.weebly.com/deakins-interview.html",
+        "https://studentfilmmakers.com/cinematograter-roger-deakins-asc-bsc/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/modern-times-ac-since-2010/",
+        "https://theasc.com/article/shot-craft-lens-test-the-deakinizer/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.rogerdeakins.com/forums/topic/lighting/"
+      ],
+      "reachable_urls": [
+        "https://rogerdeakins.weebly.com/deakins-interview.html",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/shot-craft-lens-test-the-deakinizer/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "M07",
+      "critical_review": false,
+      "master_slug": "roger-deakins"
+    },
+    {
+      "method_id": "M08",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S012",
+        "S014",
+        "S016"
+      ],
+      "source_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/news/roger-deakins-at-clubhouse-for-blade-runner-2049-discussion/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://thereveal.film/interview-roger-and-james-deakins-on-cinematography-and-navigating-a-changing-film-world/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.rogerdeakins.com/forums/topic/lighting/",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "reachable_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/news/roger-deakins-at-clubhouse-for-blade-runner-2049-discussion/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "M08",
+      "critical_review": false,
+      "master_slug": "roger-deakins"
+    },
+    {
+      "method_id": "M09",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S003",
+        "S010",
+        "S012",
+        "S014",
+        "S017",
+        "S024"
+      ],
+      "source_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://studentfilmmakers.com/cinematograter-roger-deakins-asc-bsc/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/news/roger-deakins-at-clubhouse-for-blade-runner-2049-discussion/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://thereveal.film/interview-roger-and-james-deakins-on-cinematography-and-navigating-a-changing-film-world/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.rogerdeakins.com/filmography/",
+        "https://www.rogerdeakins.com/forums/topic/lighting/",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "reachable_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/news/roger-deakins-at-clubhouse-for-blade-runner-2049-discussion/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.rogerdeakins.com/filmography/",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "M09",
+      "critical_review": false,
+      "master_slug": "roger-deakins"
+    },
+    {
+      "method_id": "M10",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S004",
+        "S010",
+        "S012",
+        "S016",
+        "S018"
+      ],
+      "source_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/modern-times-ac-since-2010/",
+        "https://theasc.com/article/shot-craft-lens-test-the-deakinizer/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://thereveal.film/interview-roger-and-james-deakins-on-cinematography-and-navigating-a-changing-film-world/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.rogerdeakins.com/forums/topic/lighting/",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "reachable_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://theasc.com/article/beyond-the-law-prisoners/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+        "https://theasc.com/article/shot-craft-lens-test-the-deakinizer/",
+        "https://theasc.com/article/skyfall-mi6-under-siege/",
+        "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+        "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+        "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "M10",
+      "critical_review": false,
+      "master_slug": "roger-deakins"
+    },
+    {
+      "method_id": "M11",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S002",
+        "S009"
+      ],
+      "source_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://studentfilmmakers.com/cinematograter-roger-deakins-asc-bsc/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/modern-times-ac-since-2010/",
+        "https://theasc.com/article/shot-craft-lens-test-the-deakinizer/",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+        "https://www.rogerdeakins.com/forums/topic/lighting/"
+      ],
+      "reachable_urls": [
+        "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+        "https://theasc.com/article/empire-of-light-deakins/",
+        "https://theasc.com/article/flashback-the-shawshank-redemption/",
+        "https://theasc.com/article/shot-craft-lens-test-the-deakinizer/",
+        "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "M11",
+      "critical_review": false,
+      "master_slug": "roger-deakins"
+    },
+    {
+      "method_id": "HM-M01",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S04",
+        "S07"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "HM-M01",
+      "critical_review": false,
+      "master_slug": "harold-michelson"
+    },
+    {
+      "method_id": "HM-M02",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S03",
+        "S04",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "HM-M02",
+      "critical_review": false,
+      "master_slug": "harold-michelson"
+    },
+    {
+      "method_id": "HM-M03",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S01",
+        "S02",
+        "S08",
+        "S09",
+        "S19"
+      ],
+      "source_urls": [
+        "https://adg.org/awards/hall-of-fame/harold-michelson/"
+      ],
+      "reachable_urls": [
+        "https://adg.org/awards/hall-of-fame/harold-michelson/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "HM-M03",
+      "critical_review": false,
+      "master_slug": "harold-michelson"
+    },
+    {
+      "method_id": "HM-M04",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S02",
+        "S16",
+        "S20"
+      ],
+      "source_urls": [
+        "https://www.shotbyshotbook.com/harold-michelson"
+      ],
+      "reachable_urls": [
+        "https://www.shotbyshotbook.com/harold-michelson"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "HM-M04",
+      "critical_review": false,
+      "master_slug": "harold-michelson"
+    },
+    {
+      "method_id": "HM-M05",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S03",
+        "S04",
+        "S06",
+        "S18",
+        "S21"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "HM-M05",
+      "critical_review": false,
+      "master_slug": "harold-michelson"
+    },
+    {
+      "method_id": "HM-M06",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S01",
+        "S06",
+        "S12",
+        "S13",
+        "S14"
+      ],
+      "source_urls": [
+        "https://adg.org/awards/hall-of-fame/harold-michelson/"
+      ],
+      "reachable_urls": [
+        "https://adg.org/awards/hall-of-fame/harold-michelson/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "HM-M06",
+      "critical_review": false,
+      "master_slug": "harold-michelson"
+    },
+    {
+      "method_id": "HM-M07",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S03",
+        "S04",
+        "S06",
+        "S07",
+        "S19"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "HM-M07",
+      "critical_review": false,
+      "master_slug": "harold-michelson"
+    },
+    {
+      "method_id": "HM-M08",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S08",
+        "S09"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "HM-M08",
+      "critical_review": false,
+      "master_slug": "harold-michelson"
+    },
+    {
+      "method_id": "HM-M09",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "source_urls": [
+        "https://theasc.com/article/understanding-lens-distortion/"
+      ],
+      "reachable_urls": [
+        "https://theasc.com/article/understanding-lens-distortion/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "HM-M09",
+      "critical_review": false,
+      "master_slug": "harold-michelson"
+    },
+    {
+      "method_id": "RC-M01",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M01",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M02",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M02",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M03",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M03",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M04",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M04",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M05",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M05",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M06",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M06",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M07",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M07",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M08",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M08",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M09",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M09",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M10",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M10",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M11",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M11",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M12",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M12",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M13",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M13",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M14",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M14",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M15",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M15",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M16",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M16",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M17",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M17",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M18",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M18",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M19",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M19",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M20",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M20",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M21",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M21",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "RC-M22",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RC-M22",
+      "critical_review": false,
+      "master_slug": "rick-carter"
+    },
+    {
+      "method_id": "TSM-01",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S10",
+        "S12",
+        "S20"
+      ],
+      "source_urls": [
+        "https://cinemontage.org/schoonmaker-scorsese-gangs-new-york/",
+        "https://movingimagesource.us/files/dialogues/2/38564_programs_transcript_html_242.htm",
+        "https://www.postmagazine.com/press-center/video-film/2023/killers-of-the-flower-moon-editor-thelma-schoonmaker/"
+      ],
+      "reachable_urls": [
+        "https://cinemontage.org/schoonmaker-scorsese-gangs-new-york/",
+        "https://movingimagesource.us/files/dialogues/2/38564_programs_transcript_html_242.htm",
+        "https://www.postmagazine.com/press-center/video-film/2023/killers-of-the-flower-moon-editor-thelma-schoonmaker/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "TSM-01",
+      "critical_review": false,
+      "master_slug": "thelma-schoonmaker"
+    },
+    {
+      "method_id": "TSM-02",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S12",
+        "S20"
+      ],
+      "source_urls": [
+        "https://cinemontage.org/schoonmaker-scorsese-gangs-new-york/",
+        "https://www.postmagazine.com/press-center/video-film/2023/killers-of-the-flower-moon-editor-thelma-schoonmaker/"
+      ],
+      "reachable_urls": [
+        "https://cinemontage.org/schoonmaker-scorsese-gangs-new-york/",
+        "https://www.postmagazine.com/press-center/video-film/2023/killers-of-the-flower-moon-editor-thelma-schoonmaker/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "TSM-02",
+      "critical_review": false,
+      "master_slug": "thelma-schoonmaker"
+    },
+    {
+      "method_id": "TSM-03",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S11",
+        "S13",
+        "S22"
+      ],
+      "source_urls": [
+        "https://cinemontage.org/thelma-schoonmaker-talks-editing-martin-scorseses-killers-of-the-flower-moon/",
+        "https://freshairarchive.org/segments/oscar-winning-scorsese-editor-thelma-schoonmaker",
+        "https://www.filmcomment.com/interview-thelma-schoonmaker/"
+      ],
+      "reachable_urls": [
+        "https://cinemontage.org/thelma-schoonmaker-talks-editing-martin-scorseses-killers-of-the-flower-moon/",
+        "https://freshairarchive.org/segments/oscar-winning-scorsese-editor-thelma-schoonmaker",
+        "https://www.filmcomment.com/interview-thelma-schoonmaker/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "TSM-03",
+      "critical_review": false,
+      "master_slug": "thelma-schoonmaker"
+    },
+    {
+      "method_id": "TSM-04",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S10",
+        "S11"
+      ],
+      "source_urls": [
+        "https://freshairarchive.org/segments/oscar-winning-scorsese-editor-thelma-schoonmaker",
+        "https://movingimagesource.us/files/dialogues/2/38564_programs_transcript_html_242.htm"
+      ],
+      "reachable_urls": [
+        "https://freshairarchive.org/segments/oscar-winning-scorsese-editor-thelma-schoonmaker",
+        "https://movingimagesource.us/files/dialogues/2/38564_programs_transcript_html_242.htm"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "TSM-04",
+      "critical_review": false,
+      "master_slug": "thelma-schoonmaker"
+    },
+    {
+      "method_id": "TSM-05",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S11",
+        "S19",
+        "S21"
+      ],
+      "source_urls": [
+        "https://blog.frame.io/2023/11/16/the-rough-cut-killers-of-the-flower-moon/",
+        "https://freshairarchive.org/segments/oscar-winning-scorsese-editor-thelma-schoonmaker",
+        "https://www.motionpictures.org/2020/01/the-irishmans-oscar-nominated-editor-thelma-schoonmaker-on-her-53-year-collaboration-with-martin-scorsese/"
+      ],
+      "reachable_urls": [
+        "https://freshairarchive.org/segments/oscar-winning-scorsese-editor-thelma-schoonmaker",
+        "https://www.motionpictures.org/2020/01/the-irishmans-oscar-nominated-editor-thelma-schoonmaker-on-her-53-year-collaboration-with-martin-scorsese/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "TSM-05",
+      "critical_review": false,
+      "master_slug": "thelma-schoonmaker"
+    },
+    {
+      "method_id": "TSM-06",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S14",
+        "S17",
+        "S18",
+        "S19"
+      ],
+      "source_urls": [
+        "https://cinemontage.org/thelma-schoonmaker-talks-of-editing-aging-and-endings-in-martin-scorseses-the-irishman/",
+        "https://www.motionpictures.org/2020/01/the-irishmans-oscar-nominated-editor-thelma-schoonmaker-on-her-53-year-collaboration-with-martin-scorsese/",
+        "https://www.provideocoalition.com/art-of-the-cut-thelma-schoonmaker/",
+        "https://www.vanityfair.com/hollywood/2014/01/wolf-of-wall-street-editor-thelma-schoonmaker-there-s-nothing-like-a-handsome-actor-making-fun-of-himself"
+      ],
+      "reachable_urls": [
+        "https://cinemontage.org/thelma-schoonmaker-talks-of-editing-aging-and-endings-in-martin-scorseses-the-irishman/",
+        "https://www.motionpictures.org/2020/01/the-irishmans-oscar-nominated-editor-thelma-schoonmaker-on-her-53-year-collaboration-with-martin-scorsese/",
+        "https://www.provideocoalition.com/art-of-the-cut-thelma-schoonmaker/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "TSM-06",
+      "critical_review": false,
+      "master_slug": "thelma-schoonmaker"
+    },
+    {
+      "method_id": "TSM-07",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S11",
+        "S12"
+      ],
+      "source_urls": [
+        "https://cinemontage.org/schoonmaker-scorsese-gangs-new-york/",
+        "https://freshairarchive.org/segments/oscar-winning-scorsese-editor-thelma-schoonmaker"
+      ],
+      "reachable_urls": [
+        "https://cinemontage.org/schoonmaker-scorsese-gangs-new-york/",
+        "https://freshairarchive.org/segments/oscar-winning-scorsese-editor-thelma-schoonmaker"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "TSM-07",
+      "critical_review": false,
+      "master_slug": "thelma-schoonmaker"
+    },
+    {
+      "method_id": "TSM-08",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S10",
+        "S12",
+        "S18"
+      ],
+      "source_urls": [
+        "https://cinemontage.org/schoonmaker-scorsese-gangs-new-york/",
+        "https://cinemontage.org/thelma-schoonmaker-talks-of-editing-aging-and-endings-in-martin-scorseses-the-irishman/",
+        "https://movingimagesource.us/files/dialogues/2/38564_programs_transcript_html_242.htm"
+      ],
+      "reachable_urls": [
+        "https://cinemontage.org/schoonmaker-scorsese-gangs-new-york/",
+        "https://cinemontage.org/thelma-schoonmaker-talks-of-editing-aging-and-endings-in-martin-scorseses-the-irishman/",
+        "https://movingimagesource.us/files/dialogues/2/38564_programs_transcript_html_242.htm"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "TSM-08",
+      "critical_review": false,
+      "master_slug": "thelma-schoonmaker"
+    },
+    {
+      "method_id": "TSM-09",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S11",
+        "S17",
+        "S23"
+      ],
+      "source_urls": [
+        "https://freshairarchive.org/segments/oscar-winning-scorsese-editor-thelma-schoonmaker",
+        "https://www.mixonline.com/sfp/inside-the-sound-of-killers-of-the-flower-moon",
+        "https://www.provideocoalition.com/art-of-the-cut-thelma-schoonmaker/"
+      ],
+      "reachable_urls": [
+        "https://freshairarchive.org/segments/oscar-winning-scorsese-editor-thelma-schoonmaker",
+        "https://www.provideocoalition.com/art-of-the-cut-thelma-schoonmaker/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "TSM-09",
+      "critical_review": false,
+      "master_slug": "thelma-schoonmaker"
+    },
+    {
+      "method_id": "TSM-10",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S11"
+      ],
+      "source_urls": [
+        "https://freshairarchive.org/segments/oscar-winning-scorsese-editor-thelma-schoonmaker"
+      ],
+      "reachable_urls": [
+        "https://freshairarchive.org/segments/oscar-winning-scorsese-editor-thelma-schoonmaker"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "TSM-10",
+      "critical_review": false,
+      "master_slug": "thelma-schoonmaker"
+    },
+    {
+      "method_id": "TSM-11",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S12",
+        "S20",
+        "S22"
+      ],
+      "source_urls": [
+        "https://cinemontage.org/schoonmaker-scorsese-gangs-new-york/",
+        "https://cinemontage.org/thelma-schoonmaker-talks-editing-martin-scorseses-killers-of-the-flower-moon/",
+        "https://www.postmagazine.com/press-center/video-film/2023/killers-of-the-flower-moon-editor-thelma-schoonmaker/"
+      ],
+      "reachable_urls": [
+        "https://cinemontage.org/schoonmaker-scorsese-gangs-new-york/",
+        "https://cinemontage.org/thelma-schoonmaker-talks-editing-martin-scorseses-killers-of-the-flower-moon/",
+        "https://www.postmagazine.com/press-center/video-film/2023/killers-of-the-flower-moon-editor-thelma-schoonmaker/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "TSM-11",
+      "critical_review": false,
+      "master_slug": "thelma-schoonmaker"
+    },
+    {
+      "method_id": "TSM-12",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S10",
+        "S19",
+        "S20"
+      ],
+      "source_urls": [
+        "https://movingimagesource.us/files/dialogues/2/38564_programs_transcript_html_242.htm",
+        "https://www.motionpictures.org/2020/01/the-irishmans-oscar-nominated-editor-thelma-schoonmaker-on-her-53-year-collaboration-with-martin-scorsese/",
+        "https://www.postmagazine.com/press-center/video-film/2023/killers-of-the-flower-moon-editor-thelma-schoonmaker/"
+      ],
+      "reachable_urls": [
+        "https://movingimagesource.us/files/dialogues/2/38564_programs_transcript_html_242.htm",
+        "https://www.motionpictures.org/2020/01/the-irishmans-oscar-nominated-editor-thelma-schoonmaker-on-her-53-year-collaboration-with-martin-scorsese/",
+        "https://www.postmagazine.com/press-center/video-film/2023/killers-of-the-flower-moon-editor-thelma-schoonmaker/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "TSM-12",
+      "critical_review": false,
+      "master_slug": "thelma-schoonmaker"
+    },
+    {
+      "method_id": "TSM-13",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S15",
+        "S16",
+        "S17"
+      ],
+      "source_urls": [
+        "https://povmagazine.com/cutting-to-the-chase-with-thelma-schoonmaker/",
+        "https://www.postmagazine.com/publications/2005/nab-post/keynote-academy-award-winning-editor-thelma-schoonmaker/",
+        "https://www.provideocoalition.com/art-of-the-cut-thelma-schoonmaker/"
+      ],
+      "reachable_urls": [
+        "https://www.postmagazine.com/publications/2005/nab-post/keynote-academy-award-winning-editor-thelma-schoonmaker/",
+        "https://www.provideocoalition.com/art-of-the-cut-thelma-schoonmaker/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "TSM-13",
+      "critical_review": false,
+      "master_slug": "thelma-schoonmaker"
+    },
+    {
+      "method_id": "TSM-14",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S11",
+        "S15"
+      ],
+      "source_urls": [
+        "https://freshairarchive.org/segments/oscar-winning-scorsese-editor-thelma-schoonmaker",
+        "https://povmagazine.com/cutting-to-the-chase-with-thelma-schoonmaker/"
+      ],
+      "reachable_urls": [
+        "https://freshairarchive.org/segments/oscar-winning-scorsese-editor-thelma-schoonmaker"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "TSM-14",
+      "critical_review": false,
+      "master_slug": "thelma-schoonmaker"
+    },
+    {
+      "method_id": "RTM-M01",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S02",
+        "S03",
+        "S04",
+        "S14",
+        "S19",
+        "S23"
+      ],
+      "source_urls": [
+        "https://designingsound.org/2010/04/26/how-to-train-your-dragon-exclusive-interview-with-randy-thom-jonathan-null-and-al-nelson/",
+        "https://doi.org/10.1093/oxfordhb/9780199733866.013.018",
+        "https://randythom.blog/2017/05/05/designing-a-movie-for-sound/",
+        "https://www.lucasfilm.com/news/randy-thom-looks-back-on-40-years-with-skywalker-sound/",
+        "https://www.philipbrophy.com/projects/cinesonic/randythom.html",
+        "https://www.skysound.com/news/skywalker-sounds-randy-thom-brings-his-love-of-sonic-storytelling-to-the-wild-robot/"
+      ],
+      "reachable_urls": [
+        "https://randythom.blog/2017/05/05/designing-a-movie-for-sound/",
+        "https://www.philipbrophy.com/projects/cinesonic/randythom.html"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "RTM-M01",
+      "critical_review": false,
+      "master_slug": "randy-thom"
+    },
+    {
+      "method_id": "RTM-M02",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S03",
+        "S04",
+        "S11"
+      ],
+      "source_urls": [
+        "https://randythom.blog/2017/05/05/designing-a-movie-for-sound/",
+        "https://www.mixonline.com/sfp/randy-thom-369110",
+        "https://www.philipbrophy.com/projects/cinesonic/randythom.html"
+      ],
+      "reachable_urls": [
+        "https://randythom.blog/2017/05/05/designing-a-movie-for-sound/",
+        "https://www.philipbrophy.com/projects/cinesonic/randythom.html"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "RTM-M02",
+      "critical_review": false,
+      "master_slug": "randy-thom"
+    },
+    {
+      "method_id": "RTM-M03",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S03",
+        "S04"
+      ],
+      "source_urls": [
+        "https://randythom.blog/2017/05/05/designing-a-movie-for-sound/",
+        "https://www.philipbrophy.com/projects/cinesonic/randythom.html"
+      ],
+      "reachable_urls": [
+        "https://randythom.blog/2017/05/05/designing-a-movie-for-sound/",
+        "https://www.philipbrophy.com/projects/cinesonic/randythom.html"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "RTM-M03",
+      "critical_review": false,
+      "master_slug": "randy-thom"
+    },
+    {
+      "method_id": "RTM-M04",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S03",
+        "S10",
+        "S19"
+      ],
+      "source_urls": [
+        "https://randythom.blog/2017/05/05/designing-a-movie-for-sound/",
+        "https://www.mixonline.com/recording/harnessing-elements-cast-away-374858",
+        "https://www.skysound.com/news/skywalker-sounds-randy-thom-brings-his-love-of-sonic-storytelling-to-the-wild-robot/"
+      ],
+      "reachable_urls": [
+        "https://randythom.blog/2017/05/05/designing-a-movie-for-sound/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "RTM-M04",
+      "critical_review": false,
+      "master_slug": "randy-thom"
+    },
+    {
+      "method_id": "RTM-M05",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S03",
+        "S04"
+      ],
+      "source_urls": [
+        "https://randythom.blog/2017/05/05/designing-a-movie-for-sound/",
+        "https://www.philipbrophy.com/projects/cinesonic/randythom.html"
+      ],
+      "reachable_urls": [
+        "https://randythom.blog/2017/05/05/designing-a-movie-for-sound/",
+        "https://www.philipbrophy.com/projects/cinesonic/randythom.html"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "RTM-M05",
+      "critical_review": false,
+      "master_slug": "randy-thom"
+    },
+    {
+      "method_id": "RTM-M06",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S03",
+        "S13",
+        "S14",
+        "S19",
+        "S29"
+      ],
+      "source_urls": [
+        "https://designingsound.org/2007/06/26/ratatouille-exclusive-interview-with-sound-designer-randy-thom/",
+        "https://designingsound.org/2010/04/26/how-to-train-your-dragon-exclusive-interview-with-randy-thom-jonathan-null-and-al-nelson/",
+        "https://randythom.blog/2017/05/05/designing-a-movie-for-sound/",
+        "https://randythom.blog/2026/06/11/sound-storyboarding-one-part-of-designing-a-movie-for-sound/",
+        "https://www.skysound.com/news/skywalker-sounds-randy-thom-brings-his-love-of-sonic-storytelling-to-the-wild-robot/"
+      ],
+      "reachable_urls": [
+        "https://randythom.blog/2017/05/05/designing-a-movie-for-sound/",
+        "https://randythom.blog/2026/06/11/sound-storyboarding-one-part-of-designing-a-movie-for-sound/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "RTM-M06",
+      "critical_review": false,
+      "master_slug": "randy-thom"
+    },
+    {
+      "method_id": "RTM-M07",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S06",
+        "S08",
+        "S10",
+        "S12",
+        "S13",
+        "S22"
+      ],
+      "source_urls": [
+        "https://cinemontage.org/randy-thom-2014-mpse-career-achievement-award-honoree/",
+        "https://designingsound.org/2007/06/26/ratatouille-exclusive-interview-with-sound-designer-randy-thom/",
+        "https://www.mixonline.com/recording/harnessing-elements-cast-away-374858",
+        "https://www.patreon.com/RandyThom/posts/more-notes-on-166943300",
+        "https://www.skysound.com/news/skywalker-sounds-randy-thom-looks-back-on-brad-birds-the-incredibles/",
+        "https://www.starwars.com/news/empire-at-40-ben-burtt-interview"
+      ],
+      "reachable_urls": [
+        "https://cinemontage.org/randy-thom-2014-mpse-career-achievement-award-honoree/"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "RTM-M07",
+      "critical_review": false,
+      "master_slug": "randy-thom"
+    },
+    {
+      "method_id": "RTM-M08",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S14",
+        "S16",
+        "S17",
+        "S19",
+        "S22"
+      ],
+      "source_urls": [
+        "https://designingsound.org/2010/04/26/how-to-train-your-dragon-exclusive-interview-with-randy-thom-jonathan-null-and-al-nelson/",
+        "https://www.asoundeffect.com/how-to-train-your-dragon-3-sound/",
+        "https://www.patreon.com/RandyThom/posts/more-notes-on-166943300",
+        "https://www.skysound.com/news/skywalker-sounds-randy-thom-brings-his-love-of-sonic-storytelling-to-the-wild-robot/",
+        "https://www.wbur.org/npr/321323569/how-to-train-your-dragon-2-is-more-growly-and-snarly-and-wise-than-ever"
+      ],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RTM-M08",
+      "critical_review": false,
+      "master_slug": "randy-thom"
+    },
+    {
+      "method_id": "RTM-M09",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S14",
+        "S17",
+        "S19"
+      ],
+      "source_urls": [
+        "https://designingsound.org/2010/04/26/how-to-train-your-dragon-exclusive-interview-with-randy-thom-jonathan-null-and-al-nelson/",
+        "https://www.asoundeffect.com/how-to-train-your-dragon-3-sound/",
+        "https://www.skysound.com/news/skywalker-sounds-randy-thom-brings-his-love-of-sonic-storytelling-to-the-wild-robot/"
+      ],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RTM-M09",
+      "critical_review": false,
+      "master_slug": "randy-thom"
+    },
+    {
+      "method_id": "RTM-M10",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S12",
+        "S14",
+        "S15"
+      ],
+      "source_urls": [
+        "https://designingsound.org/2010/04/26/how-to-train-your-dragon-exclusive-interview-with-randy-thom-jonathan-null-and-al-nelson/",
+        "https://designingsound.org/2013/03/05/collaborating-with-the-music-team-an-interview-with-randy-thom/",
+        "https://www.skysound.com/news/skywalker-sounds-randy-thom-looks-back-on-brad-birds-the-incredibles/"
+      ],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RTM-M10",
+      "critical_review": false,
+      "master_slug": "randy-thom"
+    },
+    {
+      "method_id": "RTM-M11",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S10",
+        "S11",
+        "S12",
+        "S15"
+      ],
+      "source_urls": [
+        "https://designingsound.org/2013/03/05/collaborating-with-the-music-team-an-interview-with-randy-thom/",
+        "https://www.mixonline.com/recording/harnessing-elements-cast-away-374858",
+        "https://www.mixonline.com/sfp/randy-thom-369110",
+        "https://www.skysound.com/news/skywalker-sounds-randy-thom-looks-back-on-brad-birds-the-incredibles/"
+      ],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "10-methods.json",
+      "source_heading": "RTM-M11",
+      "critical_review": false,
+      "master_slug": "randy-thom"
+    },
+    {
+      "method_id": "RTM-M12",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S02",
+        "S04",
+        "S12",
+        "S13",
+        "S19"
+      ],
+      "source_urls": [
+        "https://designingsound.org/2007/06/26/ratatouille-exclusive-interview-with-sound-designer-randy-thom/",
+        "https://www.lucasfilm.com/news/randy-thom-looks-back-on-40-years-with-skywalker-sound/",
+        "https://www.philipbrophy.com/projects/cinesonic/randythom.html",
+        "https://www.skysound.com/news/skywalker-sounds-randy-thom-brings-his-love-of-sonic-storytelling-to-the-wild-robot/",
+        "https://www.skysound.com/news/skywalker-sounds-randy-thom-looks-back-on-brad-birds-the-incredibles/"
+      ],
+      "reachable_urls": [
+        "https://www.philipbrophy.com/projects/cinesonic/randythom.html"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "RTM-M12",
+      "critical_review": false,
+      "master_slug": "randy-thom"
+    },
+    {
+      "method_id": "RTM-M13",
+      "evidence_state": "PARTIAL",
+      "call_permission": "LIMITED",
+      "evidence_ids": [
+        "S03",
+        "S04",
+        "S10"
+      ],
+      "source_urls": [
+        "https://randythom.blog/2017/05/05/designing-a-movie-for-sound/",
+        "https://www.mixonline.com/recording/harnessing-elements-cast-away-374858",
+        "https://www.philipbrophy.com/projects/cinesonic/randythom.html"
+      ],
+      "reachable_urls": [
+        "https://randythom.blog/2017/05/05/designing-a-movie-for-sound/",
+        "https://www.philipbrophy.com/projects/cinesonic/randythom.html"
+      ],
+      "rationale": "已定位至少一个公开来源；方法含义与人物归因仍需锚定核查",
+      "source_file": "10-methods.json",
+      "source_heading": "RTM-M13",
+      "critical_review": false,
+      "master_slug": "randy-thom"
+    },
+    {
+      "method_id": "JK-M01",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S03",
+        "S05"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "12-methods.json",
+      "source_heading": "JK-M01",
+      "critical_review": false,
+      "master_slug": "john-knoll"
+    },
+    {
+      "method_id": "JK-M02",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S03"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "12-methods.json",
+      "source_heading": "JK-M02",
+      "critical_review": false,
+      "master_slug": "john-knoll"
+    },
+    {
+      "method_id": "JK-M03",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S04",
+        "S05",
+        "S06",
+        "S07"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "12-methods.json",
+      "source_heading": "JK-M03",
+      "critical_review": false,
+      "master_slug": "john-knoll"
+    },
+    {
+      "method_id": "JK-M04",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S04",
+        "S05",
+        "S06"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "12-methods.json",
+      "source_heading": "JK-M04",
+      "critical_review": false,
+      "master_slug": "john-knoll"
+    },
+    {
+      "method_id": "JK-M05",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S05"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "12-methods.json",
+      "source_heading": "JK-M05",
+      "critical_review": false,
+      "master_slug": "john-knoll"
+    },
+    {
+      "method_id": "JK-M06",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S06",
+        "S07"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "12-methods.json",
+      "source_heading": "JK-M06",
+      "critical_review": false,
+      "master_slug": "john-knoll"
+    },
+    {
+      "method_id": "JK-M07",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S04",
+        "S08"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "12-methods.json",
+      "source_heading": "JK-M07",
+      "critical_review": false,
+      "master_slug": "john-knoll"
+    },
+    {
+      "method_id": "JK-M08",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S04",
+        "S08"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "12-methods.json",
+      "source_heading": "JK-M08",
+      "critical_review": false,
+      "master_slug": "john-knoll"
+    },
+    {
+      "method_id": "JK-M09",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S04",
+        "S08"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "12-methods.json",
+      "source_heading": "JK-M09",
+      "critical_review": false,
+      "master_slug": "john-knoll"
+    },
+    {
+      "method_id": "JK-M10",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S04"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "12-methods.json",
+      "source_heading": "JK-M10",
+      "critical_review": false,
+      "master_slug": "john-knoll"
+    },
+    {
+      "method_id": "JK-M11",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S04"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "12-methods.json",
+      "source_heading": "JK-M11",
+      "critical_review": false,
+      "master_slug": "john-knoll"
+    },
+    {
+      "method_id": "JK-M12",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S08",
+        "S10",
+        "S11"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "12-methods.json",
+      "source_heading": "JK-M12",
+      "critical_review": false,
+      "master_slug": "john-knoll"
+    },
+    {
+      "method_id": "JK-M13",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "12-methods.json",
+      "source_heading": "JK-M13",
+      "critical_review": false,
+      "master_slug": "john-knoll"
+    },
+    {
+      "method_id": "JK-M14",
+      "evidence_state": "UNVERIFIED",
+      "call_permission": "SANDBOX",
+      "evidence_ids": [
+        "S03",
+        "S04",
+        "S05",
+        "S06"
+      ],
+      "source_urls": [],
+      "reachable_urls": [],
+      "rationale": "未取得可复核的公开来源正文",
+      "source_file": "12-methods.json",
+      "source_heading": "JK-M14",
+      "critical_review": false,
+      "master_slug": "john-knoll"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://adg.org/awards/hall-of-fame/harold-michelson/",
+      "checked_at": "2026-11-06T13:51:21.460118+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "ecf396edbfca60e5011582b5d40cc4cd759fa2d023735ede41655d9d10d1ea74",
+      "excerpt": "Art Directors Guild : Awards – Hall of Fame Hit Enter to Search Join Portfolio Review Directory AVAILABILITY LIST Events Awards ADG Awards The Guild Board, Council & Committees Staff & FAQ Production Design Initiative Store Perspective Member Log in Join Portfolio Review Directory AVAILABILITY LIST Events Awards ADG Aw",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://amblin.com/movie/jaws/",
+      "checked_at": "2026-11-06T13:51:11.556764+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "fa2e80cde278ee60df2a51644dfe3d80b1c1cdbe07400fc9eaef209c882e0454",
+      "excerpt": "Jaws (1975) - About the Movie | Amblin Movies Television Documentaries History About Us Announcements Awards Channels Search for: Search Menu Show menu If you forgot what terror was like... About the Film CAST ROY SCHEIDER, ROBERT SHAW, RICHARD DREYFUSS, LORRAINE GARY, MURRAY HAMILTON, CARL GOTTLIEB, JEFFREY KRAMER DIR",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://blog.frame.io/2023/11/16/the-rough-cut-killers-of-the-flower-moon/",
+      "checked_at": "2026-11-06T13:51:28.032781+00:00",
+      "reachable": false,
+      "reason": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+    },
+    {
+      "url": "https://catalog.afi.com/Film/54004-ADAPTATION",
+      "checked_at": "2026-11-06T13:51:10.773364+00:00",
+      "reachable": false,
+      "reason": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://cinemontage.org/randy-thom-2014-mpse-career-achievement-award-honoree/",
+      "checked_at": "2026-11-06T13:51:36.244601+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "bc9cf300f3b4f3ae8188435ce9585d97a1d7f957aa507760e7e15f5f433a01bb",
+      "excerpt": "Randy Thom: 2014 MPSE Career Achievement Award Honoree - CineMontage: A Journal of the Motion Pictures Editors Guild Visit the Editors Guild site Friday, November 6, 2026 Home Local 700 News Web Exclusives Features SECTIONS Book Reviews From The National Executive Director Getting Organized Membership Outreach MPEG Div",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://cinemontage.org/schoonmaker-scorsese-gangs-new-york/",
+      "checked_at": "2026-11-06T13:51:24.573541+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "59b28dedd88d4b7e15949df7e4445aac340375dc5d6cc50517f2b21126d1940c",
+      "excerpt": "Thelma Schoonmaker & Martin Scorsese on ‘Gangs of New York’ - CineMontage: A Journal of the Motion Pictures Editors Guild Visit the Editors Guild site Friday, November 6, 2026 Home Local 700 News Web Exclusives Features SECTIONS Book Reviews From The National Executive Director Getting Organized Membership Outreach MPE",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://cinemontage.org/thelma-schoonmaker-talks-editing-martin-scorseses-killers-of-the-flower-moon/",
+      "checked_at": "2026-11-06T13:51:25.151254+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "24040383ba19090fdf99c88adec4a9fbc126e85adbbf9a2952a990b24b129d06",
+      "excerpt": "Thelma Schoonmaker Talks Editing Martin Scorsese’s ‘Killers of The Flower Moon’ - CineMontage: A Journal of the Motion Pictures Editors Guild Visit the Editors Guild site Friday, November 6, 2026 Home Local 700 News Web Exclusives Features SECTIONS Book Reviews From The National Executive Director Getting Organized Mem",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://cinemontage.org/thelma-schoonmaker-talks-of-editing-aging-and-endings-in-martin-scorseses-the-irishman/",
+      "checked_at": "2026-11-06T13:51:28.369432+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "90a47b7b154eaf1155a9c9caaf89a1ebfb76e849798c223d4a24cd6c58fe3f95",
+      "excerpt": "Thelma Schoonmaker Talks of Editing, Aging, and Endings in Martin Scorsese’s ‘The Irishman’ - CineMontage: A Journal of the Motion Pictures Editors Guild Visit the Editors Guild site Friday, November 6, 2026 Home Local 700 News Web Exclusives Features SECTIONS Book Reviews From The National Executive Director Getting O",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://designingsound.org/2007/06/26/ratatouille-exclusive-interview-with-sound-designer-randy-thom/",
+      "checked_at": "2026-11-06T13:51:35.489873+00:00",
+      "reachable": false,
+      "reason": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+    },
+    {
+      "url": "https://designingsound.org/2010/04/26/how-to-train-your-dragon-exclusive-interview-with-randy-thom-jonathan-null-and-al-nelson/",
+      "checked_at": "2026-11-06T13:51:32.628856+00:00",
+      "reachable": false,
+      "reason": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+    },
+    {
+      "url": "https://designingsound.org/2013/03/05/collaborating-with-the-music-team-an-interview-with-randy-thom/",
+      "checked_at": "2026-11-06T13:51:38.808096+00:00",
+      "reachable": false,
+      "reason": "TimeoutError: The read operation timed out"
+    },
+    {
+      "url": "https://doi.org/10.1093/oxfordhb/9780199733866.013.018",
+      "checked_at": "2026-11-06T13:51:33.129087+00:00",
+      "reachable": false,
+      "reason": "ValueError: redirect requires a separate URL audit"
+    },
+    {
+      "url": "https://editorial.rottentomatoes.com/article/rt-interview-charlie-kaufman-on-synecdoche-new-york/",
+      "checked_at": "2026-11-06T13:51:06.547498+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "002fff579d6090a4568f845b0afde4882b96ecac0721a0c8c0d0d64025842c66",
+      "excerpt": "RT Interview: Charlie Kaufman on Synecdoche, New York | Rotten Tomatoes About Rotten Tomatoes® Critics Movies TV Shows RT App News Showtimes Trending on RT RT Interview: Charlie Kaufman on Synecdoche, New York We talk with the meta-director about his latest head trip and directorial debut. By Tim Ryan | Updated June 17",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://editorial.rottentomatoes.com/article/rt-interview-roger-deakins-on-no-country-for-old-men/",
+      "checked_at": "2026-11-06T13:51:11.623529+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "72ee392e3b8f1f94d7e27b31759df1a96267de1d3821f797edc45c569211e00b",
+      "excerpt": "RT interview: Roger Deakins on No Country for Old Men | Rotten Tomatoes About Rotten Tomatoes® Critics Movies TV Shows RT App News Showtimes Trending on RT RT interview: Roger Deakins on No Country for Old Men The man behind the lens By Joanna Cohen | Updated June 17, 2015 If you are a fan of that great film fraternity",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://ent.sina.com.cn/m/c/2007-04-09/16581512169.html",
+      "checked_at": "2026-11-06T13:51:06.546497+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "88264509bdfc2bc62554080ae1757351248b8d8e02b787ffae980c934501b175",
+      "excerpt": "��ͼ�š����«έ�����ա���ڡ��͡���¹ԭ��_Ӱ������_������ ��ҳ ���� ���� ���� �ƾ� ��Ʊ �Ƽ� ���� ���� ��Ƶ ���� ���� ��Ϸ Ů�� ���� ���� ���� ���� ���� ���� ���� ���� ͨ��֤ ��ҳ ���� ���� ���� �ƾ� ��Ʊ �Ƽ� ���� ���� ��Ƶ ���� ���� ��Ϸ Ů�� ���� ���� ���� ���� ���� ���� ��֧��Flash Ӱ������ > ��Ӱ���� > ����ɭ��������ڡ�ר�� > ���� ��ͼ�š����«έ����",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://freshairarchive.org/segments/oscar-winning-scorsese-editor-thelma-schoonmaker",
+      "checked_at": "2026-11-06T13:51:27.066074+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "df67f87cf941f3419ad0bf6aa365814f920be120337e3aa28140d287f099e588",
+      "excerpt": "Oscar-Winning Scorsese Editor Thelma Schoonmaker | Fresh Air Archive: Interviews with Terry Gross Skip to main content Collections Featured Collections Collections (A-Z) Guests Featured Guests Guests (A-Z) Topics Featured Topics All Topics By Date Celebrating 50 years of interviews with the voices that shape our world ",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://movingimagesource.us/files/dialogues/2/38564_programs_transcript_html_242.htm",
+      "checked_at": "2026-11-06T13:51:24.594592+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "9fbd23c4605e80af4d009b3960dd84d2f024adb55403e63268481b7825bd05e9",
+      "excerpt": "Moving Image Pinewood Dialogues: THELMA SCHOONMAKER TRANSCRIPT A PINEWOOD DIALOGUE WITH THELMA SCHOONMAKER Film editor Thelma Schoonmaker’s collaboration with Martin Scorsese is one of the most enduring and fruitful in the history of film. The two met at New York University in the 1960s, and Schoonmaker edited Scorsese",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://paper.xinmin.cn/html/xmzk/2025-11-03/65/41889.html",
+      "checked_at": "2026-11-06T13:51:06.547498+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "95a338caf96a1b656c42cc85fb1cb26dbf7e91c13d014d6143b98297b50362fa",
+      "excerpt": "别叫我大师，我只是个善解人意的编剧 - 电子报详情页 2026年11月06日 星期五 本版 第65版：文化 别叫我大师，我只是个善解人意的编剧 目录 第1页:封面 第3页:新民一周 第6页:封面报道 第7页:封面报道 第8页:封面报道 第9页:封面报道 第10页:封面报道 第11页:封面报道 第12页:封面报道 第13页:封面报道 第14页:封面报道 第15页:封面报道 第16页:封面报道 第17页:封面报道 第18页:封面报道 第20页:广域/读家 第21页:广域/读家 第22页:广域/七日谈 第23页:广域/观察家 第24页:广域/漫漫谈 第25页:广域/漫漫谈 第26页:广域/城与事 第27页:广域/城与事 第28页:何以中华",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://povmagazine.com/cutting-to-the-chase-with-thelma-schoonmaker/",
+      "checked_at": "2026-11-06T13:51:32.578107+00:00",
+      "reachable": false,
+      "reason": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+    },
+    {
+      "url": "https://randythom.blog/2017/05/05/designing-a-movie-for-sound/",
+      "checked_at": "2026-11-06T13:51:33.198224+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "cc848004572941d169d2d7c5a905d68f3beb796805c15d819e6193167bb35c5b",
+      "excerpt": "Designing A Movie For Sound – randythomblog Skip to content randythomblog Blog Articles Randy’s Book About Cart Checkout Contact Randy Subscribe 0 Designing A Movie For Sound May 5, 2017 Aesthetics , Philosophy , Techniques randythom This is an article I wrote in the mid 1990’s. It’s a plea for sound to be taken as ser",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://randythom.blog/2026/06/11/sound-storyboarding-one-part-of-designing-a-movie-for-sound/",
+      "checked_at": "2026-11-06T13:51:36.190354+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "28fc6e4a96427060b6a4eebc4f8fe357b1431132d618a09a19abf42b440d07bd",
+      "excerpt": "Sound Storyboarding /One part of designing a movie for sound. – randythomblog Skip to content randythomblog Blog Articles Randy’s Book About Cart Checkout Contact Randy Subscribe 0 Sound Storyboarding /One part of designing a movie for sound. June 11, 2026 Techniques randythom I’m happy to hear more people are talking ",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://rogerdeakins.weebly.com/deakins-interview.html",
+      "checked_at": "2026-11-06T13:51:21.346365+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "11ada0291a9a972645131e2dc6ee9d25922753467b8cb93af35c3a7e310d926b",
+      "excerpt": "Deakin's Interview - Roger Deakins Cinematography Biography Influences/Contributions Deakin's Interview Me/Video Roger Deakins Roger Deakins Interview By: Alex Simon THE HOLLYWOOD INTERVIEW Editor’s note: This article originally appeared in the February 2002 issue of Venice Magazine. Picture (\"Cinematographer\") One of ",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://static.nfnews.com/content/202211/22/c7098437.html",
+      "checked_at": "2026-11-06T13:51:06.547498+00:00",
+      "reachable": false,
+      "reason": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+    },
+    {
+      "url": "https://studentfilmmakers.com/cinematograter-roger-deakins-asc-bsc/",
+      "checked_at": "2026-11-06T13:51:12.046489+00:00",
+      "reachable": false,
+      "reason": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://theasc.com/article/beyond-the-law-prisoners/",
+      "checked_at": "2026-11-06T13:51:12.179809+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "688feb35ec858237b47f76bef5f3cf531ed05cb4a6311de4554331f61954ba54",
+      "excerpt": "Beyond the Law: Prisoners Skip to content Subscribe Facebook-f Instagram Envelope Clubhouse Login — the Virtual Clubhouse, for ASC members Home Society Members Constitution, Bylaws, & Policy Committees ASC Future Practices ASC Vision Origins Scholarship Mentorship Milestones Events Connect MITC ASC MITC Committees ASC ",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://theasc.com/article/empire-of-light-deakins/",
+      "checked_at": "2026-11-06T13:51:12.836595+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "415ebe9900eab9235a3036fad139f6471bc19e94c8a5a9dbbb55a925e29e7000",
+      "excerpt": "Empire of Light: Theater of Dreams Skip to content Subscribe Facebook-f Instagram Envelope Clubhouse Login — the Virtual Clubhouse, for ASC members Home Society Members Constitution, Bylaws, & Policy Committees ASC Future Practices ASC Vision Origins Scholarship Mentorship Milestones Events Connect MITC ASC MITC Commit",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://theasc.com/article/flashback-the-shawshank-redemption/",
+      "checked_at": "2026-11-06T13:51:13.275977+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "9cf1e49c6f22ac4bedbcf238f3c3540766b19702742f42b3cc4766c7af4d05c5",
+      "excerpt": "Photographing The Shawshank Redemption Skip to content Subscribe Facebook-f Instagram Envelope Clubhouse Login — the Virtual Clubhouse, for ASC members Home Society Members Constitution, Bylaws, & Policy Committees ASC Future Practices ASC Vision Origins Scholarship Mentorship Milestones Events Connect MITC ASC MITC Co",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://theasc.com/article/lives-under-siege-the-goldfinch-and-1917/",
+      "checked_at": "2026-11-06T13:51:13.620715+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "90197d7ba0eac913a122fe09cb82757a700b78bbeb1d90f9c7414e21addaa0fa",
+      "excerpt": "Lives Under Siege: The Goldfinch and 1917 Skip to content Subscribe Facebook-f Instagram Envelope Clubhouse Login — the Virtual Clubhouse, for ASC members Home Society Members Constitution, Bylaws, & Policy Committees ASC Future Practices ASC Vision Origins Scholarship Mentorship Milestones Events Connect MITC ASC MITC",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://theasc.com/article/modern-times-ac-since-2010/",
+      "checked_at": "2026-11-06T13:51:18.558918+00:00",
+      "reachable": false,
+      "reason": "TimeoutError: The read operation timed out"
+    },
+    {
+      "url": "https://theasc.com/article/shot-craft-lens-test-the-deakinizer/",
+      "checked_at": "2026-11-06T13:51:14.470349+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "f55ab133f0895401f110abf12cb4d5b66ed12b97bd88a82250e584fc1405b8f9",
+      "excerpt": "Shot Craft: Lens Test — The Deakinizer Skip to content Subscribe Facebook-f Instagram Envelope Clubhouse Login — the Virtual Clubhouse, for ASC members Home Society Members Constitution, Bylaws, & Policy Committees ASC Future Practices ASC Vision Origins Scholarship Mentorship Milestones Events Connect MITC ASC MITC Co",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://theasc.com/article/skyfall-mi6-under-siege/",
+      "checked_at": "2026-11-06T13:51:14.770195+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "8f587ac9f2d0a39efd889dc2056d9f51cd3ad66d65bd275be9f92f0bdf69046a",
+      "excerpt": "Skyfall: MI6 Under Siege Skip to content Subscribe Facebook-f Instagram Envelope Clubhouse Login — the Virtual Clubhouse, for ASC members Home Society Members Constitution, Bylaws, & Policy Committees ASC Future Practices ASC Vision Origins Scholarship Mentorship Milestones Events Connect MITC ASC MITC Committees ASC M",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://theasc.com/article/uncanny-valley-blade-runner-2049/",
+      "checked_at": "2026-11-06T13:51:15.221540+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "f6303572af72d91122088f9ef62a5585d1b8d0f030819cdd411eedc5366ce415",
+      "excerpt": "Uncanny Valley: Blade Runner 2049 Skip to content Subscribe Facebook-f Instagram Envelope Clubhouse Login — the Virtual Clubhouse, for ASC members Home Society Members Constitution, Bylaws, & Policy Committees ASC Future Practices ASC Vision Origins Scholarship Mentorship Milestones Events Connect MITC ASC MITC Committ",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://theasc.com/article/understanding-lens-distortion/",
+      "checked_at": "2026-11-06T13:51:23.022764+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "1dbd54c66cad0eb32024dd2cd3df23b726939606f41aeeaa9a6be96e14c4632e",
+      "excerpt": "Understanding Lens Distortion Skip to content Subscribe Facebook-f Instagram Envelope Clubhouse Login — the Virtual Clubhouse, for ASC members Home Society Members Constitution, Bylaws, & Policy Committees ASC Future Practices ASC Vision Origins Scholarship Mentorship Milestones Events Connect MITC ASC MITC Committees ",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://theasc.com/news/roger-deakins-at-clubhouse-for-blade-runner-2049-discussion/",
+      "checked_at": "2026-11-06T13:51:19.142548+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "80e4a7abde5c31b013bf0e61f01cd9097f8d33d267399b3a8bb65dd30fa9d6db",
+      "excerpt": "Roger Deakins, ASC, BSC at Clubhouse for Blade Runner 2049 Discussion Skip to content Subscribe Facebook-f Instagram Envelope Clubhouse Login — the Virtual Clubhouse, for ASC members Home Society Members Constitution, Bylaws, & Policy Committees ASC Future Practices ASC Vision Origins Scholarship Mentorship Milestones ",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://theasc.com/post/the-film-book/sicario-interview-with-roger-deakins-asc-bsc/",
+      "checked_at": "2026-11-06T13:51:15.755828+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "1b9314cbeb611aa8d76e2ea9745b3b4eca880bd6e24ad48d2c6e64f938a421f4",
+      "excerpt": "Roger Deakins, ASC, BSC: Lighting Sicario Skip to content The American Society of Cinematographers Subscribe Facebook-f Instagram Envelope Clubhouse Login — the Virtual Clubhouse, for ASC members Home Society Members Constitution, Bylaws, & Policy Committees ASC Future Practices ASC Vision Origins Scholarship Mentorshi",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://thereveal.film/interview-roger-and-james-deakins-on-cinematography-and-navigating-a-changing-film-world/",
+      "checked_at": "2026-11-06T13:51:16.210714+00:00",
+      "reachable": false,
+      "reason": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+    },
+    {
+      "url": "https://www.asoundeffect.com/how-to-train-your-dragon-3-sound/",
+      "checked_at": "2026-11-06T13:51:37.426675+00:00",
+      "reachable": false,
+      "reason": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.avclub.com/MICHEL-GONDRY-CHARLIE-KAUFMAN-1798208337",
+      "checked_at": "2026-11-06T13:51:08.170253+00:00",
+      "reachable": false,
+      "reason": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.avclub.com/charlie-kaufman-1798215042",
+      "checked_at": "2026-11-06T13:51:06.991110+00:00",
+      "reachable": false,
+      "reason": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.bafta.org/media-centre/press-releases/screenwriters-lecture-charlie-kaufman/",
+      "checked_at": "2026-11-06T13:51:06.547498+00:00",
+      "reachable": false,
+      "reason": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.bfi.org.uk/sight-and-sound/interviews/charlie-kaufman-antkind-book-im-thinking-of-ending-things-netflix",
+      "checked_at": "2026-11-06T13:51:07.713192+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "0a1a57a44820f0d4624a782230179025fd3e57120f59718778fdec4a72e7d897",
+      "excerpt": "Charlie Kaufman on I'm Thinking of Ending Things | Sight and Sound Skip to content Menu Watch and discover Open submenu Learning and training Open submenu Funding and industry Open submenu Become a Member Shop Watch and discover Sight and Sound Interviews < Sight and Sound “I don’t know how anyone could feel secure in ",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.filmcomment.com/interview-roger-deakins/",
+      "checked_at": "2026-11-06T13:51:16.497658+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "2839856c800f22124fddaa68a4c539fa83baea5a210ff34cefae631aadf18b3b",
+      "excerpt": "Interview: Roger Deakins | Film Comment Film Comment Nov-Dec 2014 Toggle the menu Interview Roger Deakins True grain: the cinematographer for Unbroken and regular collaborator with the Coen Brothers discusses embracing chance and not being afraid of the dark by Steven Mears Anyone who’s followed American film over the ",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.filmcomment.com/interview-thelma-schoonmaker/",
+      "checked_at": "2026-11-06T13:51:27.766905+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "d9709b0b689032d1a3297cc9b55653f1756bcd234064100d93fd30b3a4051222",
+      "excerpt": "Interview: Thelma Schoonmaker | Film Comment Film Comment Mar-Apr 2014 Toggle the menu Interview Thelma Schoonmaker Final cut pro: the three-time Academy Award–winning editor explains the secrets of her trade by Nick Pinkerton While directors, cinematographers, and other manufacturers of the image hog the mystique, the",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.latimes.com/archives/la-xpm-1997-03-23-ca-41081-story.html",
+      "checked_at": "2026-11-06T13:51:17.192747+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "2ed5f4718814cde0f4cbc8b7c11ba9fdf7a84cb17ba8504b10c6e1ee16f5607c",
+      "excerpt": "They Get the Picture - Los Angeles Times News Home Page California Election 2024 Housing & Homelessness Politics Science & Medicine World & Nation Business Artificial Intelligence Autos Jobs, Labor & Workplace Real Estate Technology & the Internet California California Politics Earthquakes Education Housing & Homelessn",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.latimes.com/archives/la-xpm-2001-oct-28-ca-62479-story.html",
+      "checked_at": "2026-11-06T13:51:19.145547+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "02db4107ea81f444dd1d4304784ef798190e92b6e3d3e94bb3ce12f84f710d08",
+      "excerpt": "Framing Small Moments - Los Angeles Times News Home Page California Election 2024 Housing & Homelessness Politics Science & Medicine World & Nation Business Artificial Intelligence Autos Jobs, Labor & Workplace Real Estate Technology & the Internet California California Politics Earthquakes Education Housing & Homeless",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.lucasfilm.com/news/randy-thom-looks-back-on-40-years-with-skywalker-sound/",
+      "checked_at": "2026-11-06T13:51:33.210665+00:00",
+      "reachable": false,
+      "reason": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+    },
+    {
+      "url": "https://www.mixonline.com/recording/harnessing-elements-cast-away-374858",
+      "checked_at": "2026-11-06T13:51:35.420031+00:00",
+      "reachable": false,
+      "reason": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.mixonline.com/sfp/inside-the-sound-of-killers-of-the-flower-moon",
+      "checked_at": "2026-11-06T13:51:30.240084+00:00",
+      "reachable": false,
+      "reason": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.mixonline.com/sfp/randy-thom-369110",
+      "checked_at": "2026-11-06T13:51:35.026981+00:00",
+      "reachable": false,
+      "reason": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.motionpictures.org/2020/01/the-irishmans-oscar-nominated-editor-thelma-schoonmaker-on-her-53-year-collaboration-with-martin-scorsese/",
+      "checked_at": "2026-11-06T13:51:28.097987+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "319ec8ae419167042e40d3905002135cdf2e2bd99f214f10457e734c5cbeced7",
+      "excerpt": "The Irishman's Oscar-Nominated Editor Thelma Schoonmaker on her 53-year Collaboration with Martin Scorsese - The Credits Close Search for: Showing results for \" \" within MotionPictures.org Showing results for \" \" within The Credits MotionPictures.org ( ) The Credits ( ) mpa-banner-bt About Mission Staff History Interna",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.nationalboardofreview.org/2020/09/qa-with-charlie-kaufman-jessie-buckley-and-jesse-plemons/",
+      "checked_at": "2026-11-06T13:51:08.529866+00:00",
+      "reachable": false,
+      "reason": "ValueError: redirect requires a separate URL audit"
+    },
+    {
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/the-making-of-adaptation",
+      "checked_at": "2026-11-06T13:51:10.997040+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "5ace1abc01c0d7067eaafb68a33f34f726bff71278893f78356e3f3630f11ecc",
+      "excerpt": "The Making of “Adaptation” | The New Yorker Skip to main content Newsletter Search Search The Latest Midterms 2026 News Books & Culture Fiction & Poetry Humor & Cartoons Magazine Puzzles & Games Video Podcasts Goings On Open Navigation Menu Menu The Weekend Essay The Making of “Adaptation” When your quirky book becomes",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.patreon.com/RandyThom/posts/more-notes-on-166943300",
+      "checked_at": "2026-11-06T13:51:36.393637+00:00",
+      "reachable": false,
+      "reason": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.philipbrophy.com/projects/cinesonic/randythom.html",
+      "checked_at": "2026-11-06T13:51:33.415009+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "ccab6cb81052c745cbee1e59bbad211607344456627a127dc0f104ca4d0bdebb",
+      "excerpt": "Cinesonic - Randy Thom (2000) Film List ... Video List ... Music List ... Soundtrack List ... Writing List ... Graphics List ... Randy Thom Designing a Film for Sound Published in Cinesonic - Cinema & the Sound of Music - AFTRS Publishing, Sydney © 2000 Transcribed & edited by Philip Brophy from the talk delivered at t",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.postmagazine.com/press-center/video-film/2023/killers-of-the-flower-moon-editor-thelma-schoonmaker/",
+      "checked_at": "2026-11-06T13:51:25.143736+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "8a86bcc04d88966b5a74779a94233569d939b2307f7a92bae86b78cd404e3c1b",
+      "excerpt": "Killers of the Flower Moon: Editor Thelma Schoonmaker - Post Magazine Opens in a new tab Post Magazine News Videos Blog Advertise with Us Contact Us Search site Search × Sun Streamline Icon: https://streamlinehq.com Moon Streamline Icon: https://streamlinehq.com Magazine News Videos Blog Advertise with Us Contact Us Ho",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.postmagazine.com/publications/2005/nab-post/keynote-academy-award-winning-editor-thelma-schoonmaker/",
+      "checked_at": "2026-11-06T13:51:32.615348+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "04cb433cde4fe62daf4319cf54cbbf5d31cdd1e869ef27f9a5e34f075b9d9d83",
+      "excerpt": "KEYNOTE: ACADEMY AWARD-WINNING EDITOR THELMA SCHOONMAKER - Post Magazine Opens in a new tab Post Magazine News Videos Blog Advertise with Us Contact Us Search site Search × Sun Streamline Icon: https://streamlinehq.com Moon Streamline Icon: https://streamlinehq.com Magazine News Videos Blog Advertise with Us Contact Us",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.provideocoalition.com/art-of-the-cut-thelma-schoonmaker/",
+      "checked_at": "2026-11-06T13:51:28.552314+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "497109e0a2c0cb1d80f3f2bd90f7b2afa3087ff03ad0befa4aefe052b29527ac",
+      "excerpt": "ART OF THE CUT with Thelma Schoonmaker on Silence. by Steve Hullfish - ProVideo Coalition Skip to content Latest News Production Post Production Podcasts Reviews Experts More About Us Meet the Experts Advertise Contact Us Subscribe Search Search for: FOLLOW US TOP LINKS TIPS TOPICS WEBINARS Post Production ART OF THE C",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.reverseshot.org/interviews/entry/332/charlie-kaufman",
+      "checked_at": "2026-11-06T13:51:08.121252+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "48313693117933da492dde9d535841c60f4bf79c312dbcb66f9074487836809b",
+      "excerpt": "Interviews - Reverse Shot Museum of the Moving Image Reverse Shot A different angle on moving images—past, present, and future Symposiums Reviews Videos Features Interviews Newsletter Archive About Facebook Twitter RSS Charlie Kaufman By Michael Koresky , Matthew Plouffe | March 23, 2004 Why Charlie Kaufman Doesn’t Wat",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/filmography/",
+      "checked_at": "2026-11-06T13:51:20.419378+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "058815cc39c3b2a91a7da4cb8708685c8e0102f1bf76124819eb4887f51ea950",
+      "excerpt": "Roger A. Deakins - Filmography Roger A. Deakins CBE, ASC, BSC Menu Primary menu Home Forums Members Only About Members Only Looking at Lighting **NEW** Empire of Light The Goldfinch The Goldfinch – New York Shoot – PT 2 The Goldfinch- New York Shoot The Goldfinch – Amsterdam Sicario Sicario-End Sequence Sicario – Tunne",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.rogerdeakins.com/forums/topic/lighting/",
+      "checked_at": "2026-11-06T13:51:19.640471+00:00",
+      "reachable": false,
+      "reason": "TimeoutError: The read operation timed out"
+    },
+    {
+      "url": "https://www.salon.com/1999/11/11/kaufman/",
+      "checked_at": "2026-11-06T13:51:06.784656+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "1ae6dd8e2fad338385a77ef150f87c72c5f96706a8ebf42727e8f38e1f003360",
+      "excerpt": "Being Charlie Kaufman - Salon.com Search News & Politics Culture Food Science & Health Money Life Stories Video Reviews Lifestyle The New Sober Boom Getting Hooked on Quitting Education Liberal Arts Cuts Are Dangerous Is College Necessary? Finance Dying Parents Costing Millennials Dear Gen Z Investing In Le Creuset Cry",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.shotbyshotbook.com/harold-michelson",
+      "checked_at": "2026-11-06T13:51:22.437009+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "4a3d9007871d5b88df75324418fc2cf59b3885adc9f96b5290929e34784b06ce",
+      "excerpt": "Harold Michelson | SHOT BY SHOT top of page HOME GALLERY VIDEO GEAR INTERVIEWS RESOURCES BLOG ABOUT More Use tab to navigate through the menu items. SHOT BY SHOT The Birds (1963) is one of Hitchcock's most iconic movies. Harold Michelson was the storyboard artist and Robert Boyle was the production designer. The filmed",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.skysound.com/news/skywalker-sounds-randy-thom-brings-his-love-of-sonic-storytelling-to-the-wild-robot/",
+      "checked_at": "2026-11-06T13:51:33.981051+00:00",
+      "reachable": false,
+      "reason": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.skysound.com/news/skywalker-sounds-randy-thom-looks-back-on-brad-birds-the-incredibles/",
+      "checked_at": "2026-11-06T13:51:36.822830+00:00",
+      "reachable": false,
+      "reason": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.sonyclassics.com/downloads/Synecdoche-Release.pdf",
+      "checked_at": "2026-11-06T13:51:11.113445+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "content_sha256": "21cc96c865124087d24fe6b838911f078219824d173dae3bad6c55b12086d9b3",
+      "excerpt": "",
+      "reason": "non-text source requires separate verification"
+    },
+    {
+      "url": "https://www.starwars.com/news/empire-at-40-ben-burtt-interview",
+      "checked_at": "2026-11-06T13:51:37.246435+00:00",
+      "reachable": false,
+      "reason": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+    },
+    {
+      "url": "https://www.syfy.com/syfy-wire/awards-contenders-legend-roger-deakins-played-a-huge-role-in-the-how-to-train-your-dragon",
+      "checked_at": "2026-11-06T13:51:17.345096+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "8b7768346376dd213485cc32036dbd525e3f91abd0f8a3713e34d471bd1d6d56",
+      "excerpt": "Roger Deakins played a huge role in the How to Train Your Dragon finale Skip to main content Return to Home link. SYFY logo in yellow text with angular letters. The logo consists of the word “SYFY” in capital letters, with a bold, angular, and modern typeface. Each letter is distinctly designed with sharp angles giving",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.theguardian.com/film/2011/oct/03/charlie-kaufman-how-to-write",
+      "checked_at": "2026-11-06T13:51:06.988109+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "21bea61b0bac1e3850c2d7fdb3a8786d89c0292ff9f0a10f8aa92d699b0fbcb7",
+      "excerpt": "Charlie Kaufman: why I wrote Being John Malkovich | Charlie Kaufman | The Guardian Skip to main content Skip to navigation Print subscriptions Newsletters Sign in US US edition UK edition Australia edition Europe edition International edition The Guardian - Back to home The Guardian News Opinion Sport Culture Lifestyle",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.theguardian.com/film/2024/mar/19/eternal-sunshine-of-the-spotless-mind-anniversary",
+      "checked_at": "2026-11-06T13:51:08.967781+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "85719e4b2b8cee77ceb74701102cff7a64d7a0e3106add5b0c99e070c030c7cb",
+      "excerpt": "Eternal Sunshine of the Spotless Mind at 20: a love story that’s impossible to forget | Eternal Sunshine of the Spotless Mind | The Guardian Skip to main content Skip to navigation Close dialogue 1 / 1 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition UK edition Australia ed",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.thepaper.cn/newsDetail_forward_22032122",
+      "checked_at": "2026-11-06T13:51:06.547498+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "ba1d7ea86b95b6fb4ab65136ebc6ec29294237c03b6e8eb8ef1cc79140251083",
+      "excerpt": "专访｜编剧芦苇：努力从商品的“时代病”中逃出去_有戏_澎湃新闻-The Paper 下载客户端 登录 无障碍 +1 专访｜编剧芦苇：努力从商品的“时代病”中逃出去 澎湃新闻记者 陈晨 2023-02-23 10:57 来源： 澎湃新闻 ∙ 有戏 > 听全文 字号 “编剧要在难以卒读的流水账里发现真实生活的戏剧性，找到一种真切的理解，这需要功力。” 凭借《霸王别姬》《活着》声名鹊起的“华语第一编剧”芦苇执迷于那些深植于中国的历史与社会环境，与剧烈的时代变迁息息相关的主题，与当时正值创作巅峰状态的第五代不谋而合。 写《霸王别姬》的时候，芦苇41岁，干电影17年。初中文化、坐过牢、自学成才，这些标签和华语电影“第一编剧”的名头放在一起，充",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.vanityfair.com/hollywood/2014/01/wolf-of-wall-street-editor-thelma-schoonmaker-there-s-nothing-like-a-handsome-actor-making-fun-of-himself",
+      "checked_at": "2026-11-06T13:51:29.407821+00:00",
+      "reachable": false,
+      "reason": "page exceeds size limit"
+    },
+    {
+      "url": "https://www.wbur.org/npr/321323569/how-to-train-your-dragon-2-is-more-growly-and-snarly-and-wise-than-ever",
+      "checked_at": "2026-11-06T13:51:38.365755+00:00",
+      "reachable": false,
+      "reason": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+    },
+    {
+      "url": "https://www.wga.org/writers-room/101-best-lists/101-best-screenplays-of-the-21st-century-so-far/list",
+      "checked_at": "2026-11-06T13:51:09.177401+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "69b4151cff2b134216a861c98663f30174bfd42c0de4dcdc2c3d73550c8a4fd3",
+      "excerpt": "101 Greatest Screenplays of the 21st Century (*so far) Members Membership Information Benefits Constitution Working Rules Committees International Members Finances Dues & Earnings Residuals Loans Employment Resources Writers' Deal Hub WGA Platform Ask a Screenwriter Project Page Screenwriters Handbook Showrunner Hub Pr",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    },
+    {
+      "url": "https://www.zurnalai.vu.lt/religija-ir-kultura/en/article/view/841",
+      "checked_at": "2026-11-06T13:51:09.596434+00:00",
+      "reachable": true,
+      "http_status": 200,
+      "content_type": "text/html",
+      "content_sha256": "e1c0aa178e2019d275a783449c4f92316c24fc5cad915c439cbbc20d71dee99e",
+      "excerpt": "Alienation and Imagination. Charlie Kaufman’s “Synecdoche, New York” | Religija ir kultūra Home Issues Current Archives Search For Authors Announcements Make a Submission Paper Promotion Editorial Board About About the Journal Journal Policy Peer-Review Register Contact Login lt Alienation and Imagination. Charlie Kauf",
+      "reason": "reachability and excerpt only; semantic support unverified"
+    }
+  ]
+}
