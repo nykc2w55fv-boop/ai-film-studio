@@ -10,7 +10,7 @@ Codex 使用仓库专用可写 SSH Deploy key；私钥仅在本机 SSH 目录，
 
 `export_plugin.py` 从同一版本发布包生成 Agent Plugins 1.0 的 Skills-only Plugin，内含总导演与 14 位大师 Skill，并用 `policy.products: [CHAT]` 限定插件 Skill 在 ChatGPT 端，避免与 Codex 用户级 Skill 同名发现。Plugin 运行不实时下载 GitHub；需单独更新已安装 Plugin，并在桌面、网页、手机端及单片 Project 各做真实调用。`plugin.json` 版本只证明包版本，不证明客户端已更新。
 
-个人账户可通过 Plugin Creator 保存私有包；不假设具备工作区管理员的 GitHub Marketplace 自动同步。ChatGPT GitHub 应用的授权另走 **Settings → Plugins → GitHub → Manage repositories**（界面名称以实际显示为准），在 GitHub 中为 ChatGPT 应用选择该私有仓库。该应用只提供获授权仓库的读取、搜索和引用；不能代替本机 Git 的提交与推送。新仓库授权后可能需等待搜索索引刷新。当前连接器对目标仓库返回 404，尚未验证授权。
+个人账户可通过 Plugin Creator 保存私有包；不假设具备工作区管理员的 GitHub Marketplace 自动同步。ChatGPT GitHub 应用的授权另走 **Settings → Plugins → GitHub → Manage repositories**（界面名称以实际显示为准），在 GitHub 中为 ChatGPT 应用选择该私有仓库。GitHub 连接器现已能读取目标私有仓库的元数据；仍须在 ChatGPT Project 中单独测试应用读取。连接器的仓库元数据权限不能代替本机 Git 提交与推送，也不能证明客户端会自动更新 Plugin。
 
 ## Hermes 本机与 VPS
 
