@@ -8,4 +8,4 @@
 - Windows 专属内容：无脚本、注册表、COM 或服务依赖。工作区所在盘符仅用于本机交互，不写入自动化逻辑。
 - 迁移风险：macOS/Linux 文件名可能区分大小写；ZIP 内文件名、Skill 引用与模板大小写需逐一匹配。`hermes_release.py` 的只读文件属性不能替代独立服务账户或只读挂载；Hermes 配置及服务环境变量须按目标机器重设。Codex 用户级 Skill 发现、Plugin 客户端调用与 Hermes VPS 真实调用须在目标环境分别验收；媒体工具与中文字体另行选型。
 - 未来迁移步骤：复制 Git 工作区或版本化 ZIP；在 macOS/Linux 确认 Python 3.11、Codex 与 Hermes；运行结构校验和安装包 `preview`；安装到用户级 Skill 位置；用独立目录实测总导演、交接导入与回滚；为 Hermes 配置 `skills.external_dirs` 与只读发布副本；最后分别验证 ChatGPT 客户端。私钥不能从 Windows 文档中直接复制到新机器，应单独安全配置。
-- 最近一次迁移影响记录（2026-11-07，0.2.0）：标准库交接、Plugin 导出、Hermes 版本副本和报告脚本保持跨平台；本轮只更新发布与网页客户端验收记录，未新增 Windows 专属路径、脚本或依赖。本机 SSH 与 Hermes 安装操作使用了 Windows 环境，但不作为跨平台入口；macOS/Linux 需分别配置 Git SSH、Hermes 环境变量和文件权限。
+- 最近一次迁移影响记录（2026-11-07，0.2.0）：标准库交接、Plugin 导出、Hermes 版本副本和报告脚本保持跨平台；正式私有 Release 没有新增 Windows 专属路径、脚本或依赖。Codex 本仓库的 HTTPS 远程与 GitHub CLI 凭据助手配置在本地 `.git/config`，macOS/Linux 迁移后需独立运行官方设备授权并设置该仓库的凭据助手；Hermes 的环境变量和文件权限也需在目标机器重新配置。

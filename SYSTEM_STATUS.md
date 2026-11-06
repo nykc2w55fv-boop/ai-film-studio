@@ -1,7 +1,7 @@
 # 系统状态
 
-- 当前发布候选版：`0.2.0`；最后核对：2026-11-07。
-- 本地 Git `main` 已推送到用户手动创建的私有仓库；当前远程提交为 `30e8080`。尚无 `v0.2.0` 标签或 Release。
+- 当前私有发布版：`0.2.0`；最后核对：2026-11-07。
+- GitHub 私有仓库的 `v0.2.0` 标签指向发布提交 `2db5412`。该提交的验证工作流 `42257260647` 与发布工作流 `42257382301` 均成功；私有 Release 已创建，四个附件齐全，下载后的两个 ZIP 均通过 SHA-256 校验。`main` 可继续提交发布后的状态文档，标签不会自动移动。
 
 ## 本轮已实现并验证
 
@@ -18,7 +18,7 @@
 
 ## 发布与客户端缺口
 
-- 用户已确认研究包的两处私有上传授权；Plugin 已保存到个人账户，GitHub `main` 的提交和推送已通过。用户在 GitHub 页面确认 `30e8080` 的 “Verify safe source” 为绿色通过，作业日志尚未读取；私有 Release 未创建。原始影片项目、媒体及 `dist/` 仍由 `.gitignore` 排除。
+- 用户已确认研究包的两处私有上传授权；Plugin 已保存到个人账户，GitHub `main` 的提交和推送已通过。GitHub CLI 官方设备授权恢复了本机写入；本仓库 `origin` 改为 HTTPS、仓库本地凭据助手指向 GitHub CLI keyring，未将 Token 写入项目文件。原始影片项目、媒体及 `dist/` 仍由 `.gitignore` 排除。
 - 当前 GitHub 连接器已能读取目标私有仓库元数据，确认 `visibility=private`、默认分支 `main`；不能用这项读取证明 ChatGPT Project 的 GitHub 应用调用或 Git 推送。
 - ChatGPT Plugin 网页端普通聊天真实调用已由用户截图验收；Codex 桌面客户端内 ChatGPT 模式、手机端和单片 Project 内调用尚未分别验收。VPS Hermes 网络、密钥和调用均未验收。
 - 项目内 `.agents/skills/ai-film-director` 源入口与用户级安装同名；项目外 Codex 调用通过，但项目内自动发现优先级与重复入口仍需确认。

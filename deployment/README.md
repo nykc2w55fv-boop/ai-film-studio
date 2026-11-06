@@ -4,7 +4,7 @@
 
 `main` 是开发分支。用户已确认 14 份原包可上传到自己的私有 GitHub 仓库和私有 ChatGPT Plugin；只纳入构建实际引用的 16 个顶层研究文件，排除展开副本、影片项目和媒体素材。`v0.2.0` 私有发布依据敏感信息检查、仓库权限、完整回归、Codex 本机调用和 ChatGPT 网页端调用；尚未通过的客户端列入 Release Notes，不作为通过项。`VERSION.json`、发布包 `manifest.json` 和 ZIP 的 SHA-256 必须对应。Actions 会从私有仓库重建发布包，但不能代替桌面、手机和 VPS 的真实调用。
 
-Codex 使用仓库专用可写 SSH Deploy key；私钥仅在本机 SSH 目录，不能提交或贴入聊天。第一次克隆后用 `git remote -v`、`git fetch` 验证读权限；通过无敏感内容的小提交和 `git push origin main` 验证写权限，记录提交 SHA。回滚用既有安装器的备份 ZIP，仓库回滚使用经审查的恢复提交或选择旧标签，不强推。
+Codex 现使用本仓库 HTTPS `origin` 和仓库本地 `credential.helper = !gh auth git-credential`；GitHub CLI 通过官方设备流程授权，凭据保存在用户 keyring，不写入项目文件。`git ls-remote origin`、普通 `git push origin main` 分别验证读写，`gh auth status` 核对登录身份。原可写 SSH Deploy key 保留为备用，但使用时必须在本机临时 agent 中解锁；Hermes 的只读 Deploy key 独立保留。若需回退到 SSH，可在本仓库运行 `git remote set-url origin git@github.com:nykc2w55fv-boop/ai-film-studio.git` 和 `git config --local --unset credential.helper`，不会删除密钥。安装回滚用既有备份 ZIP，仓库回滚使用经审查的恢复提交或选择旧标签，不强推。
 
 ## ChatGPT
 

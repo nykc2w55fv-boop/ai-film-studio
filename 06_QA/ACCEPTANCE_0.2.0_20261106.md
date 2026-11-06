@@ -15,13 +15,14 @@
 - GitHub：本地 Git `main` 和 SSH 远程已建立。Hermes 只读 Deploy key 与 Codex 可写 Deploy key 均通过 Git 自带用户态 `ssh-agent` 临时解锁后的 `git ls-remote`。已对首批 98 个暂存文件（含 16 个构建研究输入）扫描常见密钥特征、媒体类型及体积，结果无发现；源码提交 `2e4ef4c` 和补齐 QA 文件的 `30e8080` 已推送 `main`。Hermes 只读 key 从远程重新克隆 `30e8080` 并完成本地 CI 复演。2026-11-07 GitHub 连接器已读取私库的 `VERSION.json`；这不是 ChatGPT Project 中 GitHub 应用调用的验收。
 - 密钥事件：生成时 PowerShell 将两个引号当成私钥口令，导致非交互 SSH 认证失败。GitHub 接受公钥但客户端不能签名；永久移除口令被自动审批以安全弱化为由拒绝，未绕过。Windows 系统 `ssh-agent` 禁用；Git 自带用户态 `ssh-agent` 的一次性解锁已验证可用。私钥未上传、打印或写入项目。
 - Hermes 本机：v0.16.0；官方 `skills.external_dirs` 配置已备份。2026-11-07 发现本机 0.2.0 `active.json` 为相对路径，版本包装器因路径不匹配拒绝运行；运行 `hermes_release.py select` 后保留旧指针备份，`report` 通过，包装器执行 `hermes skills list` 发现总导演及 14 位大师。直接执行 `hermes skills list` 仍为 0 个本地 Skill，说明普通启动未设置版本包装器所需环境变量。使用包装器真实调用 `hermes -z --skills ai-film-director` 在正常用户环境返回 `no final response was produced`，所以调用验收失败。项目内版本副本切换及回滚模拟通过；VPS 未连接或验收。
-- 版本报告：Codex 已安装标记、Plugin 本地包、本机 Hermes active 指针均报 0.2.0；ChatGPT 真实安装与 Hermes 真实调用未通过，因此不能说三平台正式版本一致。
+- 版本报告：Codex 已安装标记、Plugin 本地包、本机 Hermes active 指针均报 0.2.0；用户截图证明 ChatGPT 网页端普通聊天实际使用 0.2.0。Hermes 真实调用未通过，因此不能说三平台正式运行均已验收。
 - 私有 Plugin：用户确认研究包的私有上传权限后，Plugin Creator 已保存个人私有 0.2.0；回读 15 个顶层 Skill。用户确认已安装且可选用。2026-11-07 提供的网页端普通聊天截图显示 `0.2.0`、总导演、四位大师的实际分析、方法 ID 和 `UNVERIFIED/SANDBOX`、`PARTIAL/LIMITED` 边界；未把缺失的“雨夜站台”剧本写成正式项目事实。截图中旧版 Codex `0.1.4` 陈述与本机安装验收冲突，应以本机安装标记和独立 CLI 调用为准。Project 内、桌面端与手机端仍未验收。
 
 ## 发布边界
 
 - 14 位研究包共有 127 条方法；审计为 50 条 `PARTIAL/LIMITED`、77 条 `UNVERIFIED/SANDBOX`，未提升可信度。
 - 用户已明确确认 14 份原研究包及摘录可上传到自己的私有 GitHub 仓库和私有 ChatGPT Plugin。提交白名单只含构建所需 16 个顶层研究文件，排除展开副本、影片项目、媒体和构建产物；暂存内容的常见密钥特征扫描无发现。
-- GitHub Actions 验证与标签发布工作流已推送；当前连接器已读取仓库元数据并确认 `private`、`main`。用户在 GitHub Actions 页面确认 `30e8080` 的 “Verify safe source” 绿色通过，尚未读取作业日志。两份旧 QA 文件已通过提交 `30e8080` 推送；从该提交重新只读克隆后，本地 CI 复演的完整单元测试、结构校验、发布包构建、Plugin 导出及两个 ZIP 的 SHA-256 校验通过。`v0.2.0` 标签、私有 Release 及 VPS Hermes 部署未执行。
+- GitHub Actions 验证与标签发布工作流已推送；当前连接器已读取仓库元数据并确认 `private`、`main`。用户在 GitHub Actions 页面确认 `30e8080` 的 “Verify safe source” 绿色通过。正式标签提交 `2db5412` 的验证运行 `42257260647` 和发布运行 `42257382301` 均由 GitHub CLI 读取为 `completed/success`。`v0.2.0` 私有 Release 已创建，含系统 ZIP、Plugin ZIP 和各自的 `.sha256`；下载到隔离目录后实测系统 ZIP `cb6db0abcb86dc93276433401331be4655184c77975fa7d77483b0ba7ec3176f`、Plugin ZIP `6529ea386d1aab1a34bd16070ff156f7b3877245755eb91790d82eb0d3e5ce90`，与附件校验文件一致。VPS Hermes 部署未执行。
+- Codex 仓库认证：旧可写 SSH Deploy key 曾完成真实推送，但无持续 agent 时再次被 `publickey` 拒绝。用户在 GitHub 官方设备页面完成 GitHub CLI 授权后，已通过 HTTPS 将 `main` 快进推送到 `2db5412`，并推送注释标签 `v0.2.0`。本仓库 `origin` 和本地凭据助手改为 HTTPS/GitHub CLI，Token 留在用户 keyring，项目文件没有凭据。
 - ChatGPT 网页端普通聊天 Plugin 调用已由用户截图实测；ChatGPT Project 内、桌面端、手机端和 GitHub 应用在 Project 中读取该私库未实测。不能把普通聊天调用扩展为其他客户端验收。
 - 《红线》原稿未提供；没有真实媒体或成片验收。
