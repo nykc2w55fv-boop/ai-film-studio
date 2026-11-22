@@ -1,4 +1,4 @@
-# 别人如何使用 AI Film Studio
+# 如何使用 AI Film Studio
 
 当前公开分发版本为 [`v0.2.0`](https://github.com/nykc2w55fv-boop/ai-film-studio/releases/tag/v0.2.0)。先安装到自己使用的智能体，再发送下方开片话术。只发一句提示词不会让未安装的智能体自动获得 14 位大师的方法、证据审计或项目文件。GitHub 公开也不会自动给任何人的 ChatGPT 安装 Plugin。
 
